@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "name": "대전 1번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%201%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 2,
+    "name": "인천 2번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%202%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 3,
+    "name": "대구 3번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%203%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 4,
+    "name": "대구 4번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%204%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 5,
+    "name": "인천 5번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%205%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 6,
+    "name": "서울 6번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%206%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 7,
+    "name": "부산 7번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%207%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 8,
+    "name": "부산 8번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%208%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 9,
+    "name": "광주 9번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%209%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 10,
+    "name": "대전 10번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2010%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 11,
+    "name": "경기 11번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2011%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 12,
+    "name": "대구 12번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%2012%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 13,
+    "name": "경기 13번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2013%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 14,
+    "name": "울산 14번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%2014%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 15,
+    "name": "대전 15번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2015%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 16,
+    "name": "서울 16번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2016%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 17,
+    "name": "대전 17번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2017%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 18,
+    "name": "인천 18번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2018%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 19,
+    "name": "인천 19번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2019%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 20,
+    "name": "인천 20번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2020%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 21,
+    "name": "대전 21번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2021%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 22,
+    "name": "대구 22번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%2022%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 23,
+    "name": "광주 23번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2023%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 24,
+    "name": "인천 24번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2024%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 25,
+    "name": "대전 25번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2025%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 26,
+    "name": "울산 26번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%2026%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 27,
+    "name": "경기 27번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2027%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 28,
+    "name": "광주 28번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2028%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 29,
+    "name": "울산 29번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%2029%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 30,
+    "name": "광주 30번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2030%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 31,
+    "name": "서울 31번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2031%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 32,
+    "name": "울산 32번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%2032%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 33,
+    "name": "부산 33번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%2033%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 34,
+    "name": "서울 34번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2034%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 35,
+    "name": "경기 35번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2035%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 36,
+    "name": "경기 36번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2036%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 37,
+    "name": "서울 37번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2037%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 38,
+    "name": "울산 38번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%2038%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 39,
+    "name": "경기 39번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2039%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 40,
+    "name": "경기 40번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2040%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 41,
+    "name": "대전 41번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2041%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 42,
+    "name": "부산 42번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%2042%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 43,
+    "name": "대전 43번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2043%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 44,
+    "name": "울산 44번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%2044%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 45,
+    "name": "경기 45번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2045%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 46,
+    "name": "인천 46번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2046%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 47,
+    "name": "인천 47번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2047%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 48,
+    "name": "대전 48번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2048%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 49,
+    "name": "경기 49번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2049%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 50,
+    "name": "광주 50번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2050%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 51,
+    "name": "서울 51번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2051%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 52,
+    "name": "대전 52번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2052%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 53,
+    "name": "경기 53번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2053%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 54,
+    "name": "경기 54번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2054%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 55,
+    "name": "경기 55번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2055%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 56,
+    "name": "울산 56번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%2056%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 57,
+    "name": "대전 57번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2057%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 58,
+    "name": "광주 58번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2058%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 59,
+    "name": "서울 59번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2059%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 60,
+    "name": "인천 60번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2060%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 61,
+    "name": "서울 61번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2061%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 62,
+    "name": "부산 62번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%2062%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 63,
+    "name": "인천 63번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2063%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 64,
+    "name": "인천 64번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2064%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 65,
+    "name": "인천 65번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2065%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 66,
+    "name": "광주 66번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2066%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 67,
+    "name": "부산 67번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%2067%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 68,
+    "name": "광주 68번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2068%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 69,
+    "name": "경기 69번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2069%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 70,
+    "name": "울산 70번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%2070%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 71,
+    "name": "대구 71번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%2071%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 72,
+    "name": "서울 72번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2072%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 73,
+    "name": "인천 73번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2073%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 74,
+    "name": "광주 74번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2074%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 75,
+    "name": "대구 75번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%2075%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 76,
+    "name": "대구 76번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%2076%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 77,
+    "name": "경기 77번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2077%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 78,
+    "name": "대구 78번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%2078%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 79,
+    "name": "광주 79번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2079%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 80,
+    "name": "서울 80번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2080%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 81,
+    "name": "울산 81번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%2081%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 82,
+    "name": "서울 82번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2082%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 83,
+    "name": "대전 83번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2083%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 84,
+    "name": "인천 84번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2084%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 85,
+    "name": "경기 85번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2085%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 86,
+    "name": "인천 86번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2086%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 87,
+    "name": "대전 87번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%2087%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 88,
+    "name": "부산 88번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%2088%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 89,
+    "name": "경기 89번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2089%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 90,
+    "name": "부산 90번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%2090%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 91,
+    "name": "광주 91번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2091%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 92,
+    "name": "인천 92번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%2092%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 93,
+    "name": "경기 93번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%2093%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 94,
+    "name": "대구 94번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%2094%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 95,
+    "name": "부산 95번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%2095%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 96,
+    "name": "광주 96번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2096%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 97,
+    "name": "광주 97번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%2097%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 98,
+    "name": "서울 98번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%2098%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 99,
+    "name": "대구 99번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%2099%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 100,
+    "name": "부산 100번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20100%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 101,
+    "name": "경기 101번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20101%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 102,
+    "name": "부산 102번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20102%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 103,
+    "name": "대구 103번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20103%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 104,
+    "name": "서울 104번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20104%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 105,
+    "name": "대구 105번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20105%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 106,
+    "name": "서울 106번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20106%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 107,
+    "name": "부산 107번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20107%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 108,
+    "name": "서울 108번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20108%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 109,
+    "name": "경기 109번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20109%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 110,
+    "name": "경기 110번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20110%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 111,
+    "name": "대구 111번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20111%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 112,
+    "name": "광주 112번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20112%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 113,
+    "name": "대전 113번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20113%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 114,
+    "name": "인천 114번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20114%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 115,
+    "name": "서울 115번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20115%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 116,
+    "name": "인천 116번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20116%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 117,
+    "name": "부산 117번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20117%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 118,
+    "name": "대전 118번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20118%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 119,
+    "name": "대구 119번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20119%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 120,
+    "name": "대구 120번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20120%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 121,
+    "name": "대구 121번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20121%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 122,
+    "name": "대전 122번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20122%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 123,
+    "name": "울산 123번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20123%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 124,
+    "name": "인천 124번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20124%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 125,
+    "name": "서울 125번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20125%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 126,
+    "name": "대구 126번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20126%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 127,
+    "name": "대전 127번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20127%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 128,
+    "name": "경기 128번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20128%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 129,
+    "name": "대구 129번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20129%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 130,
+    "name": "울산 130번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20130%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 131,
+    "name": "부산 131번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20131%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 132,
+    "name": "대전 132번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20132%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 133,
+    "name": "부산 133번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20133%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 134,
+    "name": "대전 134번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20134%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 135,
+    "name": "경기 135번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20135%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 136,
+    "name": "울산 136번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20136%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 137,
+    "name": "대구 137번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20137%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 138,
+    "name": "울산 138번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20138%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 139,
+    "name": "광주 139번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20139%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 140,
+    "name": "서울 140번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20140%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 141,
+    "name": "울산 141번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20141%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 142,
+    "name": "서울 142번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20142%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 143,
+    "name": "경기 143번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20143%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 144,
+    "name": "광주 144번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20144%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 145,
+    "name": "인천 145번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20145%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 146,
+    "name": "울산 146번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20146%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 147,
+    "name": "광주 147번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20147%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 148,
+    "name": "대전 148번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20148%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 149,
+    "name": "광주 149번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20149%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 150,
+    "name": "광주 150번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20150%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 151,
+    "name": "울산 151번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20151%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 152,
+    "name": "울산 152번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20152%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 153,
+    "name": "부산 153번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20153%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 154,
+    "name": "대전 154번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20154%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 155,
+    "name": "대구 155번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20155%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 156,
+    "name": "광주 156번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20156%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 157,
+    "name": "경기 157번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20157%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 158,
+    "name": "대전 158번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20158%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 159,
+    "name": "대구 159번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20159%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 160,
+    "name": "광주 160번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20160%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 161,
+    "name": "부산 161번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20161%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 162,
+    "name": "서울 162번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20162%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 163,
+    "name": "광주 163번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20163%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 164,
+    "name": "서울 164번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20164%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 165,
+    "name": "대구 165번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20165%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 166,
+    "name": "경기 166번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20166%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 167,
+    "name": "부산 167번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20167%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 168,
+    "name": "대전 168번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20168%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 169,
+    "name": "대구 169번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20169%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 170,
+    "name": "광주 170번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20170%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 171,
+    "name": "울산 171번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20171%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 172,
+    "name": "울산 172번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20172%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 173,
+    "name": "경기 173번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20173%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 174,
+    "name": "부산 174번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20174%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 175,
+    "name": "인천 175번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20175%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 176,
+    "name": "울산 176번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20176%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 177,
+    "name": "대구 177번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20177%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 178,
+    "name": "광주 178번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20178%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 179,
+    "name": "대전 179번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20179%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 180,
+    "name": "인천 180번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20180%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 181,
+    "name": "서울 181번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20181%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 182,
+    "name": "대전 182번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20182%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 183,
+    "name": "인천 183번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20183%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 184,
+    "name": "대전 184번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20184%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 185,
+    "name": "대전 185번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20185%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 186,
+    "name": "울산 186번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20186%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 187,
+    "name": "울산 187번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20187%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 188,
+    "name": "대구 188번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20188%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 189,
+    "name": "인천 189번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20189%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 190,
+    "name": "경기 190번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20190%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 191,
+    "name": "대구 191번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20191%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 192,
+    "name": "경기 192번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20192%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 193,
+    "name": "광주 193번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20193%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 194,
+    "name": "대전 194번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20194%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 195,
+    "name": "서울 195번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20195%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 196,
+    "name": "부산 196번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20196%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 197,
+    "name": "부산 197번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20197%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 198,
+    "name": "부산 198번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20198%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 199,
+    "name": "인천 199번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20199%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 200,
+    "name": "광주 200번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20200%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 201,
+    "name": "대구 201번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20201%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 202,
+    "name": "서울 202번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20202%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 203,
+    "name": "울산 203번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20203%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 204,
+    "name": "대전 204번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20204%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 205,
+    "name": "광주 205번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20205%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 206,
+    "name": "대전 206번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20206%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 207,
+    "name": "경기 207번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20207%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 208,
+    "name": "광주 208번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20208%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 209,
+    "name": "대전 209번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20209%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 210,
+    "name": "대전 210번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20210%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 211,
+    "name": "대구 211번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20211%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 212,
+    "name": "울산 212번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20212%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 213,
+    "name": "인천 213번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20213%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 214,
+    "name": "인천 214번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20214%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 215,
+    "name": "부산 215번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20215%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 216,
+    "name": "대전 216번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20216%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 217,
+    "name": "대구 217번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20217%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 218,
+    "name": "울산 218번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20218%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 219,
+    "name": "부산 219번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20219%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 220,
+    "name": "부산 220번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20220%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 221,
+    "name": "울산 221번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20221%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 222,
+    "name": "서울 222번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20222%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 223,
+    "name": "부산 223번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20223%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 224,
+    "name": "대구 224번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20224%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 225,
+    "name": "인천 225번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20225%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 226,
+    "name": "부산 226번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20226%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 227,
+    "name": "인천 227번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20227%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 228,
+    "name": "대전 228번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20228%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 229,
+    "name": "부산 229번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20229%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 230,
+    "name": "경기 230번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20230%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 231,
+    "name": "울산 231번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20231%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 232,
+    "name": "대구 232번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20232%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 233,
+    "name": "울산 233번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20233%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 234,
+    "name": "부산 234번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20234%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 235,
+    "name": "부산 235번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20235%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 236,
+    "name": "대구 236번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20236%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 237,
+    "name": "대전 237번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20237%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 238,
+    "name": "대전 238번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20238%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 239,
+    "name": "대구 239번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20239%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 240,
+    "name": "대전 240번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20240%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 241,
+    "name": "부산 241번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20241%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 242,
+    "name": "인천 242번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20242%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 243,
+    "name": "인천 243번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20243%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 244,
+    "name": "인천 244번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20244%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 245,
+    "name": "경기 245번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20245%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 246,
+    "name": "서울 246번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20246%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 247,
+    "name": "울산 247번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20247%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 248,
+    "name": "부산 248번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20248%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 249,
+    "name": "인천 249번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20249%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 250,
+    "name": "부산 250번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20250%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 251,
+    "name": "인천 251번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20251%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 252,
+    "name": "부산 252번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20252%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 253,
+    "name": "인천 253번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20253%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 254,
+    "name": "울산 254번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20254%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 255,
+    "name": "광주 255번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20255%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 256,
+    "name": "대전 256번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20256%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 257,
+    "name": "울산 257번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20257%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 258,
+    "name": "경기 258번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20258%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 259,
+    "name": "부산 259번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20259%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 260,
+    "name": "대구 260번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20260%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 261,
+    "name": "부산 261번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20261%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 262,
+    "name": "부산 262번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20262%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 263,
+    "name": "대구 263번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20263%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 264,
+    "name": "울산 264번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20264%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 265,
+    "name": "대구 265번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20265%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 266,
+    "name": "대전 266번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20266%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 267,
+    "name": "서울 267번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20267%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 268,
+    "name": "대구 268번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20268%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 269,
+    "name": "부산 269번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20269%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 270,
+    "name": "광주 270번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20270%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 271,
+    "name": "대전 271번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20271%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 272,
+    "name": "서울 272번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20272%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 273,
+    "name": "울산 273번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20273%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 274,
+    "name": "광주 274번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20274%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 275,
+    "name": "부산 275번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20275%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 276,
+    "name": "경기 276번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20276%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 277,
+    "name": "울산 277번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20277%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 278,
+    "name": "대구 278번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20278%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 279,
+    "name": "광주 279번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20279%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 280,
+    "name": "부산 280번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20280%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 281,
+    "name": "울산 281번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20281%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 282,
+    "name": "광주 282번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20282%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 283,
+    "name": "울산 283번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20283%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 284,
+    "name": "울산 284번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20284%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 285,
+    "name": "대구 285번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20285%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 286,
+    "name": "광주 286번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20286%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 287,
+    "name": "대전 287번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20287%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 288,
+    "name": "대구 288번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20288%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 289,
+    "name": "경기 289번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20289%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 290,
+    "name": "인천 290번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20290%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 291,
+    "name": "경기 291번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20291%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 292,
+    "name": "대구 292번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20292%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 293,
+    "name": "부산 293번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20293%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 294,
+    "name": "서울 294번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20294%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 295,
+    "name": "인천 295번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20295%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 296,
+    "name": "경기 296번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20296%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 297,
+    "name": "부산 297번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20297%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 298,
+    "name": "울산 298번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20298%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 299,
+    "name": "대구 299번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20299%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 300,
+    "name": "부산 300번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20300%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 301,
+    "name": "부산 301번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20301%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 302,
+    "name": "서울 302번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20302%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 303,
+    "name": "광주 303번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20303%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 304,
+    "name": "부산 304번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20304%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 305,
+    "name": "경기 305번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20305%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 306,
+    "name": "광주 306번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20306%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 307,
+    "name": "경기 307번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20307%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 308,
+    "name": "서울 308번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20308%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 309,
+    "name": "부산 309번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20309%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 310,
+    "name": "부산 310번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20310%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 311,
+    "name": "광주 311번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20311%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 312,
+    "name": "경기 312번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20312%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 313,
+    "name": "서울 313번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20313%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 314,
+    "name": "대구 314번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20314%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 315,
+    "name": "부산 315번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20315%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 316,
+    "name": "대전 316번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20316%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 317,
+    "name": "서울 317번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20317%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 318,
+    "name": "경기 318번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20318%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 319,
+    "name": "대전 319번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20319%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 320,
+    "name": "부산 320번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20320%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 321,
+    "name": "서울 321번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20321%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 322,
+    "name": "광주 322번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20322%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 323,
+    "name": "경기 323번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20323%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 324,
+    "name": "서울 324번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20324%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 325,
+    "name": "대전 325번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20325%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 326,
+    "name": "광주 326번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20326%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 327,
+    "name": "서울 327번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20327%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 328,
+    "name": "대구 328번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20328%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 329,
+    "name": "울산 329번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20329%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 330,
+    "name": "대구 330번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20330%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 331,
+    "name": "울산 331번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20331%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 332,
+    "name": "부산 332번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20332%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 333,
+    "name": "서울 333번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20333%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 334,
+    "name": "광주 334번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20334%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 335,
+    "name": "서울 335번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20335%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 336,
+    "name": "인천 336번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20336%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 337,
+    "name": "경기 337번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20337%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 338,
+    "name": "대구 338번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20338%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 339,
+    "name": "대전 339번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20339%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 340,
+    "name": "서울 340번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20340%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 341,
+    "name": "대구 341번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20341%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 342,
+    "name": "인천 342번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20342%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 343,
+    "name": "대구 343번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20343%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 344,
+    "name": "대구 344번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20344%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 345,
+    "name": "대전 345번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20345%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 346,
+    "name": "서울 346번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20346%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 347,
+    "name": "대구 347번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20347%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 348,
+    "name": "부산 348번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20348%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 349,
+    "name": "서울 349번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20349%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 350,
+    "name": "경기 350번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20350%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 351,
+    "name": "서울 351번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20351%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 352,
+    "name": "부산 352번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20352%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 353,
+    "name": "대구 353번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20353%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 354,
+    "name": "서울 354번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20354%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 355,
+    "name": "광주 355번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20355%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 356,
+    "name": "대구 356번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20356%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 357,
+    "name": "대전 357번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20357%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 358,
+    "name": "서울 358번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20358%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 359,
+    "name": "서울 359번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20359%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 360,
+    "name": "울산 360번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20360%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 361,
+    "name": "부산 361번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20361%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 362,
+    "name": "인천 362번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20362%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 363,
+    "name": "경기 363번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20363%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 364,
+    "name": "경기 364번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20364%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 365,
+    "name": "부산 365번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20365%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 366,
+    "name": "경기 366번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20366%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 367,
+    "name": "대전 367번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20367%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 368,
+    "name": "경기 368번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20368%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 369,
+    "name": "경기 369번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20369%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 370,
+    "name": "대구 370번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20370%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 371,
+    "name": "대전 371번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20371%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 372,
+    "name": "경기 372번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20372%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 373,
+    "name": "광주 373번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20373%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 374,
+    "name": "대구 374번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20374%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 375,
+    "name": "인천 375번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20375%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 376,
+    "name": "대구 376번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20376%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 377,
+    "name": "대구 377번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20377%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 378,
+    "name": "부산 378번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20378%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 379,
+    "name": "부산 379번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20379%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 380,
+    "name": "울산 380번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20380%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 381,
+    "name": "경기 381번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20381%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 382,
+    "name": "서울 382번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20382%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 383,
+    "name": "울산 383번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20383%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 384,
+    "name": "인천 384번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20384%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 385,
+    "name": "서울 385번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20385%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 386,
+    "name": "인천 386번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20386%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 387,
+    "name": "서울 387번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20387%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 388,
+    "name": "경기 388번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20388%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 389,
+    "name": "인천 389번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20389%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 390,
+    "name": "경기 390번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20390%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 391,
+    "name": "인천 391번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20391%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 392,
+    "name": "경기 392번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20392%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 393,
+    "name": "부산 393번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20393%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 394,
+    "name": "서울 394번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20394%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 395,
+    "name": "서울 395번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20395%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 396,
+    "name": "부산 396번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20396%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 397,
+    "name": "부산 397번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20397%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 398,
+    "name": "서울 398번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20398%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 399,
+    "name": "경기 399번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20399%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 400,
+    "name": "경기 400번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20400%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 401,
+    "name": "대전 401번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20401%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 402,
+    "name": "서울 402번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20402%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 403,
+    "name": "대전 403번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20403%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 404,
+    "name": "광주 404번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20404%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 405,
+    "name": "인천 405번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20405%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 406,
+    "name": "울산 406번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20406%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 407,
+    "name": "경기 407번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20407%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 408,
+    "name": "대구 408번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20408%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 409,
+    "name": "인천 409번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20409%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 410,
+    "name": "부산 410번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20410%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 411,
+    "name": "부산 411번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20411%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 412,
+    "name": "대구 412번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20412%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 413,
+    "name": "부산 413번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20413%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 414,
+    "name": "경기 414번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20414%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 415,
+    "name": "서울 415번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20415%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 416,
+    "name": "대전 416번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20416%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 417,
+    "name": "부산 417번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20417%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 418,
+    "name": "울산 418번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20418%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 419,
+    "name": "광주 419번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20419%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 420,
+    "name": "경기 420번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20420%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 421,
+    "name": "대구 421번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20421%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 422,
+    "name": "대구 422번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20422%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 423,
+    "name": "경기 423번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20423%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 424,
+    "name": "인천 424번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20424%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 425,
+    "name": "인천 425번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20425%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 426,
+    "name": "인천 426번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20426%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 427,
+    "name": "울산 427번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20427%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 428,
+    "name": "경기 428번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20428%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 429,
+    "name": "부산 429번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20429%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 430,
+    "name": "대구 430번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20430%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 431,
+    "name": "서울 431번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20431%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 432,
+    "name": "광주 432번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20432%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 433,
+    "name": "광주 433번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20433%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 434,
+    "name": "광주 434번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20434%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 435,
+    "name": "부산 435번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20435%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 436,
+    "name": "울산 436번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20436%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 437,
+    "name": "서울 437번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20437%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 438,
+    "name": "인천 438번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20438%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 439,
+    "name": "인천 439번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20439%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 440,
+    "name": "서울 440번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20440%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 441,
+    "name": "울산 441번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20441%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 442,
+    "name": "대전 442번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20442%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 443,
+    "name": "인천 443번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20443%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 444,
+    "name": "울산 444번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20444%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 445,
+    "name": "대전 445번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20445%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 446,
+    "name": "대전 446번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20446%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 447,
+    "name": "인천 447번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20447%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 448,
+    "name": "부산 448번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20448%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 449,
+    "name": "부산 449번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20449%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 450,
+    "name": "경기 450번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20450%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 451,
+    "name": "부산 451번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20451%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 452,
+    "name": "울산 452번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20452%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 453,
+    "name": "부산 453번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20453%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 454,
+    "name": "울산 454번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20454%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 455,
+    "name": "서울 455번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20455%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 456,
+    "name": "대구 456번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20456%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 457,
+    "name": "대전 457번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20457%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 458,
+    "name": "인천 458번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20458%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 459,
+    "name": "울산 459번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20459%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 460,
+    "name": "울산 460번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20460%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 461,
+    "name": "대전 461번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20461%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 462,
+    "name": "서울 462번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20462%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 463,
+    "name": "서울 463번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20463%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 464,
+    "name": "인천 464번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20464%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 465,
+    "name": "인천 465번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20465%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 466,
+    "name": "울산 466번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20466%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 467,
+    "name": "광주 467번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20467%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 468,
+    "name": "서울 468번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20468%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 469,
+    "name": "울산 469번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20469%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 470,
+    "name": "서울 470번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20470%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 471,
+    "name": "대구 471번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20471%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 472,
+    "name": "대전 472번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20472%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 473,
+    "name": "부산 473번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20473%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 474,
+    "name": "서울 474번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20474%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 475,
+    "name": "부산 475번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20475%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 476,
+    "name": "광주 476번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20476%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 477,
+    "name": "서울 477번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20477%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 478,
+    "name": "인천 478번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20478%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 479,
+    "name": "서울 479번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20479%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 480,
+    "name": "부산 480번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20480%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 481,
+    "name": "서울 481번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20481%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 482,
+    "name": "서울 482번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20482%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 483,
+    "name": "대전 483번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20483%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 484,
+    "name": "인천 484번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20484%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 485,
+    "name": "서울 485번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20485%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 486,
+    "name": "경기 486번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20486%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 487,
+    "name": "부산 487번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20487%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 488,
+    "name": "인천 488번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20488%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 489,
+    "name": "대전 489번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20489%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 490,
+    "name": "울산 490번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20490%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 491,
+    "name": "대구 491번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20491%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 492,
+    "name": "경기 492번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20492%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 493,
+    "name": "울산 493번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20493%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 494,
+    "name": "부산 494번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20494%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 495,
+    "name": "대전 495번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20495%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 496,
+    "name": "광주 496번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20496%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 497,
+    "name": "경기 497번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20497%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 498,
+    "name": "경기 498번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20498%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 499,
+    "name": "울산 499번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20499%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 500,
+    "name": "경기 500번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20500%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 501,
+    "name": "경기 501번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20501%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 502,
+    "name": "대전 502번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20502%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 503,
+    "name": "서울 503번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20503%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 504,
+    "name": "서울 504번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20504%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 505,
+    "name": "인천 505번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20505%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 506,
+    "name": "서울 506번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20506%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 507,
+    "name": "대구 507번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20507%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 508,
+    "name": "경기 508번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20508%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 509,
+    "name": "부산 509번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20509%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 510,
+    "name": "대전 510번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20510%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 511,
+    "name": "광주 511번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20511%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 512,
+    "name": "경기 512번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20512%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 513,
+    "name": "울산 513번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20513%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 514,
+    "name": "대전 514번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20514%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 515,
+    "name": "대전 515번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20515%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 516,
+    "name": "울산 516번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20516%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 517,
+    "name": "서울 517번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20517%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 518,
+    "name": "광주 518번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20518%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 519,
+    "name": "광주 519번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20519%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 520,
+    "name": "광주 520번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20520%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 521,
+    "name": "광주 521번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20521%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 522,
+    "name": "인천 522번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20522%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 523,
+    "name": "부산 523번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20523%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 524,
+    "name": "대구 524번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20524%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 525,
+    "name": "서울 525번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20525%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 526,
+    "name": "울산 526번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20526%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 527,
+    "name": "경기 527번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20527%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 528,
+    "name": "부산 528번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20528%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 529,
+    "name": "광주 529번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20529%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 530,
+    "name": "부산 530번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20530%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 531,
+    "name": "인천 531번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20531%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 532,
+    "name": "대구 532번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20532%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 533,
+    "name": "경기 533번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20533%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 534,
+    "name": "대전 534번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20534%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 535,
+    "name": "인천 535번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20535%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 536,
+    "name": "경기 536번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20536%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 537,
+    "name": "인천 537번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20537%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 538,
+    "name": "울산 538번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20538%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 539,
+    "name": "경기 539번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20539%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 540,
+    "name": "광주 540번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20540%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 541,
+    "name": "경기 541번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20541%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 542,
+    "name": "광주 542번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20542%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 543,
+    "name": "대전 543번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20543%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 544,
+    "name": "부산 544번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20544%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 545,
+    "name": "부산 545번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20545%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 546,
+    "name": "경기 546번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20546%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 547,
+    "name": "경기 547번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20547%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 548,
+    "name": "경기 548번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20548%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 549,
+    "name": "서울 549번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20549%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 550,
+    "name": "경기 550번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20550%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 551,
+    "name": "경기 551번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20551%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 552,
+    "name": "부산 552번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20552%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 553,
+    "name": "인천 553번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20553%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 554,
+    "name": "광주 554번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20554%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 555,
+    "name": "울산 555번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20555%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 556,
+    "name": "울산 556번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20556%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 557,
+    "name": "대구 557번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20557%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 558,
+    "name": "울산 558번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20558%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 559,
+    "name": "대전 559번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20559%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 560,
+    "name": "대구 560번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20560%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 561,
+    "name": "서울 561번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20561%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 562,
+    "name": "인천 562번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20562%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 563,
+    "name": "광주 563번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20563%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 564,
+    "name": "대전 564번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20564%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 565,
+    "name": "대구 565번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20565%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 566,
+    "name": "대전 566번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20566%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 567,
+    "name": "인천 567번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20567%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 568,
+    "name": "경기 568번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20568%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 569,
+    "name": "울산 569번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20569%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 570,
+    "name": "대구 570번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20570%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 571,
+    "name": "인천 571번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20571%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 572,
+    "name": "광주 572번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20572%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 573,
+    "name": "대전 573번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20573%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 574,
+    "name": "광주 574번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20574%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 575,
+    "name": "인천 575번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20575%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 576,
+    "name": "광주 576번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20576%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 577,
+    "name": "대구 577번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20577%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 578,
+    "name": "경기 578번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20578%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 579,
+    "name": "울산 579번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20579%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 580,
+    "name": "인천 580번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20580%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 581,
+    "name": "부산 581번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20581%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 582,
+    "name": "광주 582번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20582%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 583,
+    "name": "경기 583번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20583%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 584,
+    "name": "광주 584번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20584%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 585,
+    "name": "부산 585번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20585%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 586,
+    "name": "부산 586번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20586%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 587,
+    "name": "울산 587번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20587%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 588,
+    "name": "경기 588번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20588%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 589,
+    "name": "대전 589번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20589%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 590,
+    "name": "서울 590번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20590%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 591,
+    "name": "광주 591번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20591%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 592,
+    "name": "인천 592번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20592%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 593,
+    "name": "서울 593번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20593%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 594,
+    "name": "부산 594번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20594%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 595,
+    "name": "부산 595번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20595%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 596,
+    "name": "부산 596번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20596%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 597,
+    "name": "경기 597번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20597%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 598,
+    "name": "광주 598번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20598%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 599,
+    "name": "경기 599번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20599%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 600,
+    "name": "광주 600번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20600%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 601,
+    "name": "광주 601번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20601%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 602,
+    "name": "울산 602번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20602%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 603,
+    "name": "대전 603번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20603%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 604,
+    "name": "경기 604번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20604%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 605,
+    "name": "부산 605번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20605%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 606,
+    "name": "부산 606번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20606%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 607,
+    "name": "부산 607번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20607%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 608,
+    "name": "경기 608번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20608%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 609,
+    "name": "서울 609번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20609%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 610,
+    "name": "경기 610번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20610%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 611,
+    "name": "광주 611번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20611%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 612,
+    "name": "광주 612번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20612%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 613,
+    "name": "대구 613번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20613%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 614,
+    "name": "대전 614번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20614%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 615,
+    "name": "서울 615번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20615%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 616,
+    "name": "서울 616번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20616%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 617,
+    "name": "경기 617번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20617%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 618,
+    "name": "울산 618번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20618%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 619,
+    "name": "대구 619번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20619%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 620,
+    "name": "부산 620번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20620%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 621,
+    "name": "인천 621번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20621%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 622,
+    "name": "대전 622번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20622%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 623,
+    "name": "대전 623번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20623%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 624,
+    "name": "경기 624번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20624%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 625,
+    "name": "경기 625번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20625%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 626,
+    "name": "울산 626번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20626%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 627,
+    "name": "광주 627번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20627%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 628,
+    "name": "대전 628번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20628%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 629,
+    "name": "광주 629번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20629%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 630,
+    "name": "경기 630번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20630%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 631,
+    "name": "부산 631번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20631%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 632,
+    "name": "대전 632번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20632%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 633,
+    "name": "서울 633번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20633%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 634,
+    "name": "부산 634번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20634%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 635,
+    "name": "서울 635번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20635%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 636,
+    "name": "울산 636번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20636%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 637,
+    "name": "울산 637번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20637%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 638,
+    "name": "인천 638번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20638%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 639,
+    "name": "대전 639번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20639%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 640,
+    "name": "인천 640번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20640%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 641,
+    "name": "경기 641번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20641%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 642,
+    "name": "대전 642번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20642%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 643,
+    "name": "울산 643번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20643%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 644,
+    "name": "서울 644번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20644%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 645,
+    "name": "인천 645번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20645%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 646,
+    "name": "경기 646번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20646%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 647,
+    "name": "서울 647번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20647%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 648,
+    "name": "광주 648번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20648%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 649,
+    "name": "부산 649번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20649%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 650,
+    "name": "부산 650번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20650%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 651,
+    "name": "경기 651번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20651%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 652,
+    "name": "부산 652번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20652%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 653,
+    "name": "부산 653번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20653%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 654,
+    "name": "인천 654번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20654%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 655,
+    "name": "대전 655번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20655%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 656,
+    "name": "경기 656번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20656%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 657,
+    "name": "대구 657번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20657%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 658,
+    "name": "광주 658번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20658%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 659,
+    "name": "서울 659번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20659%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 660,
+    "name": "대구 660번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20660%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 661,
+    "name": "대구 661번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20661%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 662,
+    "name": "광주 662번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20662%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 663,
+    "name": "경기 663번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20663%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 664,
+    "name": "서울 664번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20664%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 665,
+    "name": "인천 665번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20665%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 666,
+    "name": "대구 666번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20666%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 667,
+    "name": "인천 667번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20667%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 668,
+    "name": "부산 668번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20668%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 669,
+    "name": "대구 669번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20669%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 670,
+    "name": "광주 670번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20670%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 671,
+    "name": "경기 671번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20671%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 672,
+    "name": "경기 672번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20672%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 673,
+    "name": "경기 673번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20673%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 674,
+    "name": "부산 674번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20674%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 675,
+    "name": "울산 675번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20675%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 676,
+    "name": "서울 676번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20676%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 677,
+    "name": "경기 677번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20677%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 678,
+    "name": "울산 678번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20678%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 679,
+    "name": "서울 679번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20679%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 680,
+    "name": "광주 680번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20680%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 681,
+    "name": "대구 681번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20681%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 682,
+    "name": "경기 682번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20682%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 683,
+    "name": "대전 683번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20683%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 684,
+    "name": "경기 684번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20684%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 685,
+    "name": "대전 685번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20685%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 686,
+    "name": "대전 686번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20686%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 687,
+    "name": "서울 687번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20687%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 688,
+    "name": "서울 688번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20688%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 689,
+    "name": "인천 689번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20689%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 690,
+    "name": "울산 690번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20690%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 691,
+    "name": "울산 691번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20691%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 692,
+    "name": "인천 692번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20692%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 693,
+    "name": "인천 693번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20693%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 694,
+    "name": "대전 694번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20694%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 695,
+    "name": "부산 695번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20695%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 696,
+    "name": "울산 696번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20696%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 697,
+    "name": "서울 697번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20697%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 698,
+    "name": "광주 698번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20698%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 699,
+    "name": "대전 699번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20699%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 700,
+    "name": "대전 700번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20700%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 701,
+    "name": "대구 701번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20701%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 702,
+    "name": "대전 702번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20702%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 703,
+    "name": "인천 703번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20703%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 704,
+    "name": "부산 704번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20704%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 705,
+    "name": "서울 705번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20705%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 706,
+    "name": "경기 706번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20706%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 707,
+    "name": "서울 707번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20707%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 708,
+    "name": "광주 708번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20708%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 709,
+    "name": "서울 709번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20709%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 710,
+    "name": "대구 710번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20710%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 711,
+    "name": "서울 711번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20711%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 712,
+    "name": "광주 712번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20712%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 713,
+    "name": "대전 713번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20713%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 714,
+    "name": "경기 714번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20714%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 715,
+    "name": "광주 715번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20715%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 716,
+    "name": "경기 716번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20716%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 717,
+    "name": "광주 717번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20717%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 718,
+    "name": "서울 718번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20718%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 719,
+    "name": "인천 719번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20719%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 720,
+    "name": "인천 720번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20720%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 721,
+    "name": "인천 721번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20721%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 722,
+    "name": "대전 722번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20722%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 723,
+    "name": "인천 723번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20723%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 724,
+    "name": "서울 724번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20724%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 725,
+    "name": "경기 725번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20725%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 726,
+    "name": "광주 726번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20726%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 727,
+    "name": "광주 727번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20727%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 728,
+    "name": "광주 728번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20728%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 729,
+    "name": "대전 729번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20729%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 730,
+    "name": "경기 730번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20730%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 731,
+    "name": "경기 731번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20731%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 732,
+    "name": "대전 732번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20732%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 733,
+    "name": "경기 733번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20733%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 734,
+    "name": "서울 734번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20734%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 735,
+    "name": "경기 735번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20735%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 736,
+    "name": "인천 736번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20736%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 737,
+    "name": "광주 737번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20737%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 738,
+    "name": "경기 738번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20738%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 739,
+    "name": "부산 739번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20739%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 740,
+    "name": "울산 740번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20740%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 741,
+    "name": "인천 741번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20741%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 742,
+    "name": "서울 742번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20742%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 743,
+    "name": "부산 743번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20743%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 744,
+    "name": "부산 744번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20744%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 745,
+    "name": "광주 745번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20745%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 746,
+    "name": "인천 746번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20746%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 747,
+    "name": "울산 747번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20747%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 748,
+    "name": "울산 748번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20748%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 749,
+    "name": "부산 749번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20749%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 750,
+    "name": "인천 750번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20750%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 751,
+    "name": "부산 751번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20751%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 752,
+    "name": "광주 752번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20752%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 753,
+    "name": "울산 753번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20753%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 754,
+    "name": "경기 754번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20754%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 755,
+    "name": "울산 755번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20755%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 756,
+    "name": "경기 756번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20756%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 757,
+    "name": "인천 757번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20757%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 758,
+    "name": "울산 758번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20758%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 759,
+    "name": "서울 759번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20759%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 760,
+    "name": "울산 760번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20760%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 761,
+    "name": "대구 761번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20761%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 762,
+    "name": "광주 762번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20762%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 763,
+    "name": "울산 763번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20763%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 764,
+    "name": "대전 764번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20764%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 765,
+    "name": "부산 765번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20765%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 766,
+    "name": "경기 766번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20766%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 767,
+    "name": "부산 767번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20767%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 768,
+    "name": "울산 768번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20768%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 769,
+    "name": "울산 769번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20769%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 770,
+    "name": "울산 770번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20770%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 771,
+    "name": "부산 771번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20771%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 772,
+    "name": "울산 772번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20772%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 773,
+    "name": "울산 773번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20773%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 774,
+    "name": "대구 774번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20774%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 775,
+    "name": "경기 775번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20775%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 776,
+    "name": "부산 776번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20776%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 777,
+    "name": "경기 777번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20777%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 778,
+    "name": "부산 778번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20778%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 779,
+    "name": "대구 779번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20779%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 780,
+    "name": "광주 780번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20780%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 781,
+    "name": "서울 781번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20781%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 782,
+    "name": "울산 782번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20782%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 783,
+    "name": "경기 783번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20783%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 784,
+    "name": "경기 784번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20784%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 785,
+    "name": "서울 785번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20785%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 786,
+    "name": "광주 786번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20786%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 787,
+    "name": "대전 787번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20787%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 788,
+    "name": "인천 788번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20788%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 789,
+    "name": "경기 789번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20789%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 790,
+    "name": "경기 790번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20790%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 791,
+    "name": "대전 791번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20791%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 792,
+    "name": "경기 792번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20792%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 793,
+    "name": "울산 793번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20793%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 794,
+    "name": "광주 794번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20794%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 795,
+    "name": "대구 795번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20795%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 796,
+    "name": "대전 796번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20796%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 797,
+    "name": "서울 797번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20797%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 798,
+    "name": "부산 798번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20798%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 799,
+    "name": "서울 799번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20799%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 800,
+    "name": "인천 800번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20800%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 801,
+    "name": "대구 801번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20801%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 802,
+    "name": "경기 802번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20802%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 803,
+    "name": "울산 803번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20803%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 804,
+    "name": "인천 804번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20804%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 805,
+    "name": "부산 805번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20805%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 806,
+    "name": "광주 806번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20806%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 807,
+    "name": "경기 807번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20807%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 808,
+    "name": "서울 808번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20808%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 809,
+    "name": "경기 809번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20809%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 810,
+    "name": "부산 810번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20810%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 811,
+    "name": "서울 811번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20811%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 812,
+    "name": "인천 812번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20812%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 813,
+    "name": "경기 813번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20813%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 814,
+    "name": "인천 814번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20814%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 815,
+    "name": "부산 815번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20815%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 816,
+    "name": "대구 816번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20816%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 817,
+    "name": "광주 817번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20817%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 818,
+    "name": "광주 818번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20818%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 819,
+    "name": "경기 819번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20819%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 820,
+    "name": "대구 820번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20820%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 821,
+    "name": "광주 821번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20821%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 822,
+    "name": "인천 822번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20822%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 823,
+    "name": "울산 823번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20823%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 824,
+    "name": "울산 824번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20824%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 825,
+    "name": "울산 825번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20825%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 826,
+    "name": "부산 826번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20826%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 827,
+    "name": "인천 827번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20827%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 828,
+    "name": "인천 828번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20828%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 829,
+    "name": "인천 829번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20829%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 830,
+    "name": "대구 830번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20830%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 831,
+    "name": "대구 831번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20831%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 832,
+    "name": "경기 832번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20832%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 833,
+    "name": "인천 833번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20833%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 834,
+    "name": "서울 834번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20834%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 835,
+    "name": "부산 835번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20835%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 836,
+    "name": "서울 836번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20836%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 837,
+    "name": "인천 837번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20837%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 838,
+    "name": "경기 838번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20838%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 839,
+    "name": "경기 839번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20839%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 840,
+    "name": "대구 840번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20840%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 841,
+    "name": "광주 841번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20841%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 842,
+    "name": "대전 842번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20842%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 843,
+    "name": "울산 843번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20843%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 844,
+    "name": "대전 844번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20844%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 845,
+    "name": "광주 845번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20845%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 846,
+    "name": "대구 846번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20846%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 847,
+    "name": "대구 847번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20847%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 848,
+    "name": "부산 848번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20848%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 849,
+    "name": "대전 849번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20849%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 850,
+    "name": "대전 850번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20850%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 851,
+    "name": "부산 851번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20851%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 852,
+    "name": "부산 852번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20852%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 853,
+    "name": "대구 853번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20853%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 854,
+    "name": "대전 854번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20854%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 855,
+    "name": "부산 855번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20855%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 856,
+    "name": "부산 856번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20856%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 857,
+    "name": "서울 857번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20857%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 858,
+    "name": "대전 858번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20858%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 859,
+    "name": "서울 859번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20859%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 860,
+    "name": "인천 860번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20860%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 861,
+    "name": "서울 861번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20861%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 862,
+    "name": "경기 862번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20862%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 863,
+    "name": "광주 863번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20863%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 864,
+    "name": "울산 864번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20864%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 865,
+    "name": "울산 865번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20865%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 866,
+    "name": "부산 866번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20866%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 867,
+    "name": "경기 867번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20867%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 868,
+    "name": "울산 868번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20868%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 869,
+    "name": "광주 869번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20869%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 870,
+    "name": "경기 870번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20870%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 871,
+    "name": "인천 871번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20871%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 872,
+    "name": "광주 872번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20872%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 873,
+    "name": "광주 873번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20873%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 874,
+    "name": "경기 874번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20874%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 875,
+    "name": "인천 875번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20875%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 876,
+    "name": "대전 876번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20876%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 877,
+    "name": "서울 877번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20877%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 878,
+    "name": "인천 878번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20878%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 879,
+    "name": "경기 879번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20879%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 880,
+    "name": "대전 880번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20880%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 881,
+    "name": "대구 881번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20881%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 882,
+    "name": "경기 882번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20882%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 883,
+    "name": "울산 883번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20883%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 884,
+    "name": "인천 884번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20884%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 885,
+    "name": "부산 885번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20885%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 886,
+    "name": "인천 886번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20886%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 887,
+    "name": "경기 887번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20887%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 888,
+    "name": "대구 888번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20888%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 889,
+    "name": "경기 889번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20889%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 890,
+    "name": "대구 890번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20890%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 891,
+    "name": "광주 891번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20891%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 892,
+    "name": "서울 892번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20892%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 893,
+    "name": "부산 893번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20893%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 894,
+    "name": "광주 894번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20894%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 895,
+    "name": "대구 895번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20895%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 896,
+    "name": "서울 896번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20896%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 897,
+    "name": "울산 897번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20897%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 898,
+    "name": "서울 898번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20898%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 899,
+    "name": "울산 899번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20899%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 900,
+    "name": "부산 900번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20900%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 901,
+    "name": "인천 901번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20901%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 902,
+    "name": "경기 902번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20902%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 903,
+    "name": "울산 903번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20903%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 904,
+    "name": "부산 904번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20904%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 905,
+    "name": "울산 905번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20905%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 906,
+    "name": "경기 906번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20906%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 907,
+    "name": "서울 907번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20907%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 908,
+    "name": "대전 908번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20908%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 909,
+    "name": "대구 909번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20909%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 910,
+    "name": "대전 910번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20910%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 911,
+    "name": "서울 911번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20911%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 912,
+    "name": "인천 912번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20912%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 913,
+    "name": "서울 913번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20913%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 914,
+    "name": "인천 914번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20914%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 915,
+    "name": "부산 915번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20915%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 916,
+    "name": "광주 916번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20916%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 917,
+    "name": "서울 917번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20917%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 918,
+    "name": "서울 918번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20918%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 919,
+    "name": "대구 919번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20919%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 920,
+    "name": "부산 920번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20920%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 921,
+    "name": "서울 921번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20921%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 922,
+    "name": "서울 922번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20922%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 923,
+    "name": "서울 923번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20923%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 924,
+    "name": "광주 924번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20924%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 925,
+    "name": "광주 925번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20925%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 926,
+    "name": "부산 926번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20926%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 927,
+    "name": "울산 927번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20927%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 928,
+    "name": "경기 928번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20928%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 929,
+    "name": "대전 929번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20929%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 930,
+    "name": "광주 930번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20930%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 931,
+    "name": "경기 931번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20931%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 932,
+    "name": "울산 932번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20932%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 933,
+    "name": "부산 933번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20933%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 934,
+    "name": "대구 934번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20934%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 935,
+    "name": "서울 935번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20935%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 936,
+    "name": "울산 936번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20936%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 937,
+    "name": "인천 937번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20937%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 938,
+    "name": "경기 938번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20938%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 939,
+    "name": "울산 939번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20939%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 940,
+    "name": "인천 940번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20940%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 941,
+    "name": "대전 941번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20941%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 942,
+    "name": "울산 942번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20942%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 943,
+    "name": "경기 943번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20943%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 944,
+    "name": "인천 944번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20944%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 945,
+    "name": "울산 945번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20945%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 946,
+    "name": "대전 946번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20946%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 947,
+    "name": "서울 947번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20947%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 948,
+    "name": "인천 948번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20948%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 949,
+    "name": "광주 949번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20949%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 950,
+    "name": "서울 950번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20950%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 951,
+    "name": "대전 951번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20951%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 952,
+    "name": "경기 952번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20952%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 953,
+    "name": "서울 953번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20953%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 954,
+    "name": "인천 954번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20954%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 955,
+    "name": "서울 955번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20955%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 956,
+    "name": "대전 956번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20956%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 957,
+    "name": "서울 957번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20957%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 958,
+    "name": "인천 958번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20958%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 959,
+    "name": "대구 959번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20959%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 960,
+    "name": "울산 960번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20960%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 961,
+    "name": "부산 961번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20961%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 962,
+    "name": "인천 962번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20962%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 963,
+    "name": "부산 963번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20963%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 964,
+    "name": "경기 964번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20964%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 965,
+    "name": "인천 965번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20965%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 966,
+    "name": "서울 966번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20966%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 967,
+    "name": "경기 967번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20967%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 968,
+    "name": "인천 968번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20968%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 969,
+    "name": "인천 969번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20969%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 970,
+    "name": "경기 970번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20970%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 971,
+    "name": "광주 971번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20971%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 972,
+    "name": "부산 972번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20972%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 973,
+    "name": "경기 973번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20973%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 974,
+    "name": "인천 974번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20974%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 975,
+    "name": "대전 975번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20975%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 976,
+    "name": "서울 976번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20976%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 977,
+    "name": "대전 977번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20977%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 978,
+    "name": "서울 978번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20978%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 979,
+    "name": "인천 979번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20979%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 980,
+    "name": "인천 980번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20980%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 981,
+    "name": "부산 981번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20981%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 982,
+    "name": "광주 982번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20982%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 983,
+    "name": "서울 983번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20983%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 984,
+    "name": "서울 984번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20984%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 985,
+    "name": "대구 985번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20985%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 986,
+    "name": "경기 986번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20986%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 987,
+    "name": "울산 987번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20987%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 988,
+    "name": "서울 988번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20988%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 989,
+    "name": "대전 989번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EC%A0%84%20989%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 990,
+    "name": "부산 990번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20990%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 991,
+    "name": "경기 991번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20991%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 992,
+    "name": "광주 992번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%20992%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 993,
+    "name": "경기 993번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EA%B2%BD%EA%B8%B0%20993%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  },
+  {
+    "id": 994,
+    "name": "부산 994번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%20994%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 995,
+    "name": "인천 995번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%9D%B8%EC%B2%9C%20995%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 996,
+    "name": "울산 996번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20996%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 997,
+    "name": "서울 997번 산부인과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%20997%EB%B2%88%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC"
+  },
+  {
+    "id": 998,
+    "name": "울산 998번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EC%9A%B8%EC%82%B0%20998%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 999,
+    "name": "대구 999번 여성의원",
+    "url": "https://search.naver.com/search.naver?query=%EB%8C%80%EA%B5%AC%20999%EB%B2%88%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90"
+  },
+  {
+    "id": 1000,
+    "name": "서울 1000번 소아청소년과",
+    "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%201000%EB%B2%88%20%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC"
+  }
+]

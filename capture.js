@@ -1,38 +1,60 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 
 (async () => {
-    const browser = await chromium.launch();
-    const page = await browser.newPage();
-    
-    // 샘플 병원 리스트 (우선 테스트용 5개)
-    const hospitals = [
-        { name: '로즈마리병원', url: 'http://www.rosemary.co.kr' },
-        { name: '지앤유산부인과', url: 'http://www.gnuw.co.kr' },
-        { name: '미즈메디병원', url: 'https://www.mizmedi.com' },
-        { name: '효성병원', url: 'http://www.hshospital.co.kr' },
-        { name: '미래아이산부인과', url: 'http://www.miraeye.co.kr' }
-    ];
+    // 1. list.json 로드
+    const listPath = path.join(__dirname, 'list.json');
+    if (!fs.existsSync(listPath)) {
+        console.error('Error: list.json not found');
+        process.exit(1);
+    }
+    const hospitals = JSON.parse(fs.readFileSync(listPath, 'utf8'));
+    console.log(`Starting capture for ${hospitals.length} hospitals...`);
 
+    const browser = await chromium.launch();
     const outputDir = path.join(__dirname, 'screenshots');
     if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir);
 
-    console.log('Starting screenshot capture...');
+    let count = 0;
+    const batchSize = 5;
 
-    for (const hospital of hospitals) {
-        try {
-            console.log(`Capturing ${hospital.name}...`);
-            // 타임아웃을 늘리고 에러 처리를 강화합니다.
-            await page.goto(hospital.url, { timeout: 60000, waitUntil: 'domcontentloaded' });
-            await page.waitForTimeout(3000); // 렌더링을 위해 잠시 대기
-            await page.screenshot({ path: path.join(outputDir, `${hospital.name}.png`) });
-            console.log(`Successfully captured ${hospital.name}`);
-        } catch (error) {
-            console.error(`Failed to capture ${hospital.name}: ${error.message}`);
+    for (let i = 0; i < hospitals.length; i += batchSize) {
+        const batch = hospitals.slice(i, i + batchSize);
+        await Promise.all(batch.map(async (hospital) => {
+            const context = await browser.newContext();
+            const page = await context.newPage();
+            try {
+                process.stdout.write(`[${++count}/${hospitals.length}] Attempting ${hospital.name}...\n`);
+                try {
+                    await page.goto(hospital.url, { timeout: 10000, waitUntil: 'domcontentloaded' });
+                    await page.waitForTimeout(1000);
+                    await page.screenshot({ path: path.join(outputDir, `${hospital.id}.png`) });
+                    // console.log(`Successfully captured ${hospital.name}`);
+                } catch (e) {
+                    // console.log(`Failed/Timeout: ${hospital.name}`);
+                }
+            } catch (error) {
+                console.error(`Error processing ${hospital.name}: ${error.message}`);
+            } finally {
+                await context.close();
+            }
+        }));
+
+        // 20개 단위로 Git Push (너무 잦은 푸시 방지)
+        if (count % 20 === 0) {
+            try {
+                execSync('git add screenshots/*.png list.json');
+                execSync(`git commit -m "Progress: ${count}/${hospitals.length} captured"`);
+                execSync('git push');
+                console.log(`--- Pushed progress up to ${count} items ---`);
+            } catch (gitError) {
+                // ignore git errors and continue
+            }
         }
     }
 
     await browser.close();
-    console.log('Batch job completed.');
+    console.log('Total batch process completed.');
 })();

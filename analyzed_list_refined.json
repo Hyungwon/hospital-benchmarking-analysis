@@ -24411,5 +24411,3795 @@
     "menu_count": 0,
     "menu_items": [],
     "captured_at": "2026-02-21T10:38:53.875Z"
+  },
+  {
+    "id": 2,
+    "name": "인천 2번 산부인과",
+    "official_url": "https://medicine.medilocator.co.kr/%EC%9D%B8%EC%B2%9C-%EB%82%A8%EB%8F%99%EA%B5%AC-%EC%9D%BC%EC%9A%94%EC%9D%BC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%A7%84%EB%A3%8C-%EB%B3%91%EC%9B%90",
+    "captured_at": "2026-02-24T07:12:44.145Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/2_인천_2번_산부인과.png"
+  },
+  {
+    "id": 3,
+    "name": "대구 3번 산부인과",
+    "official_url": "http://www.duu.kr/",
+    "captured_at": "2026-02-24T07:12:48.889Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/3_대구_3번_산부인과.png"
+  },
+  {
+    "id": 4,
+    "name": "대구 4번 산부인과",
+    "official_url": "http://www.mediup.co.kr/board/index.html?id=talk5&no=44",
+    "captured_at": "2026-02-24T07:12:52.746Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/4_대구_4번_산부인과.png"
+  },
+  {
+    "id": 5,
+    "name": "인천 5번 소아청소년과",
+    "official_url": "https://www.yna.co.kr/view/AKR20240320089252001?input=1195m",
+    "captured_at": "2026-02-24T07:12:56.357Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/5_인천_5번_소아청소년과.png"
+  },
+  {
+    "id": 6,
+    "name": "서울 6번 여성의원",
+    "official_url": "http://www.businesspost.co.kr/",
+    "captured_at": "2026-02-24T07:13:00.270Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/6_서울_6번_여성의원.png"
+  },
+  {
+    "id": 7,
+    "name": "부산 7번 여성의원",
+    "official_url": "http://www.glorywoman.co.kr/",
+    "captured_at": "2026-02-24T07:13:04.009Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/7_부산_7번_여성의원.png"
+  },
+  {
+    "id": 8,
+    "name": "부산 8번 여성의원",
+    "official_url": "http://www.sentv.co.kr/",
+    "captured_at": "2026-02-24T07:13:08.070Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/8_부산_8번_여성의원.png"
+  },
+  {
+    "id": 9,
+    "name": "광주 9번 소아청소년과",
+    "official_url": "https://www.gwangjucentralhospital.co.kr/pediatrics/immunization.html",
+    "captured_at": "2026-02-24T07:13:15.508Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/9_광주_9번_소아청소년과.png"
+  },
+  {
+    "id": 10,
+    "name": "대전 10번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/250000_11_1.html",
+    "captured_at": "2026-02-24T07:13:20.810Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/10_대전_10번_소아청소년과.png"
+  },
+  {
+    "id": 11,
+    "name": "경기 11번 산부인과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=4433497&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-24T07:13:24.261Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/11_경기_11번_산부인과.png"
+  },
+  {
+    "id": 12,
+    "name": "대구 12번 소아청소년과",
+    "official_url": "https://www.goodoc.co.kr/hospitals/77582",
+    "captured_at": "2026-02-24T07:13:27.650Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/12_대구_12번_소아청소년과.png"
+  },
+  {
+    "id": 13,
+    "name": "경기 13번 여성의원",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMiMkMCMkMDAkNDgxOTYxIzExIyQyIyQzIyQwMCQ0NjEwMDIjODEjJDEjJDYjJDgz",
+    "captured_at": "2026-02-24T07:13:32.103Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/13_경기_13번_여성의원.png"
+  },
+  {
+    "id": 14,
+    "name": "울산 14번 소아청소년과",
+    "official_url": "https://cashdoc.me/hospital/A1700262/%EC%98%A4%EC%A6%88%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-24T07:13:36.002Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/14_울산_14번_소아청소년과.png"
+  },
+  {
+    "id": 15,
+    "name": "대전 15번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/250000_11_1.html",
+    "captured_at": "2026-02-24T07:13:41.142Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/15_대전_15번_소아청소년과.png"
+  },
+  {
+    "id": 16,
+    "name": "서울 16번 산부인과",
+    "official_url": "https://www.goodoc.co.kr/hospitals/52849",
+    "captured_at": "2026-02-24T07:13:44.385Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/16_서울_16번_산부인과.png"
+  },
+  {
+    "id": 17,
+    "name": "대전 17번 산부인과",
+    "official_url": "https://boating.carsend.kr/daejeon/%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-17%EA%B3%B3-%EC%A0%9C%EA%B3%B5-%EB%8C%80%EC%A0%84-%EA%B5%90%EC%B4%8C%EB%8F%99/",
+    "captured_at": "2026-02-24T07:13:48.480Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/17_대전_17번_산부인과.png"
+  },
+  {
+    "id": 18,
+    "name": "인천 18번 여성의원",
+    "official_url": "https://momshospital.com/place/175",
+    "captured_at": "2026-02-24T07:13:52.002Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/18_인천_18번_여성의원.png"
+  },
+  {
+    "id": 19,
+    "name": "인천 19번 소아청소년과",
+    "official_url": "https://ddocdoc.com/hospital/57171f13e207df2709f1de20",
+    "captured_at": "2026-02-24T07:13:55.375Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_new/19_인천_19번_소아청소년과.png"
+  },
+  {
+    "id": 20,
+    "name": "인천 20번 소아청소년과",
+    "official_url": "http://ib.ibsh.kr/sub/sub0509.php",
+    "captured_at": "2026-02-22T06:20:34.006Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/20_인천_20번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:17:00.315Z"
+  },
+  {
+    "id": 21,
+    "name": "대전 21번 소아청소년과",
+    "official_url": "https://ddocdoc.com/hospital/640e8c5ea0cdfe168f09d709",
+    "captured_at": "2026-02-22T06:20:36.321Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/21_대전_21번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:17:03.636Z"
+  },
+  {
+    "id": 22,
+    "name": "대구 22번 여성의원",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=41630",
+    "captured_at": "2026-02-22T06:20:38.594Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/22_대구_22번_여성의원.png",
+    "processed_at": "2026-02-24T07:17:07.934Z"
+  },
+  {
+    "id": 23,
+    "name": "광주 23번 여성의원",
+    "official_url": "https://gall.dcinside.com/mgallery/board/view/?id=minjudang&no=4189056",
+    "captured_at": "2026-02-22T06:20:40.909Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/23_광주_23번_여성의원.png",
+    "processed_at": "2026-02-24T07:17:12.047Z"
+  },
+  {
+    "id": 24,
+    "name": "인천 24번 여성의원",
+    "official_url": "https://rubyvigor.com/%EC%9D%B8%EC%B2%9C-%EC%97%B0%EC%88%98%EA%B5%AC-24%EC%8B%9C%EA%B0%84-%EC%9D%BC%EC%9A%94%EC%9D%BC-%EC%97%AC%EC%9D%98%EC%82%AC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%97%AC%EC%84%B1%EB%B3%91%EC%9B%90/",
+    "captured_at": "2026-02-22T06:20:43.194Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/24_인천_24번_여성의원.png",
+    "processed_at": "2026-02-24T07:17:16.080Z"
+  },
+  {
+    "id": 25,
+    "name": "대전 25번 산부인과",
+    "official_url": "https://a4.slatstory.com/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C-%EC%9D%BC%EC%9A%94%EC%9D%BC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%A7%84%EB%A3%8C-%EB%B3%91%EC%9B%90%EA%B3%BC-%EC%8B%9C%EA%B0%84%EC%9D%80/",
+    "captured_at": "2026-02-22T06:20:45.354Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/25_대전_25번_산부인과.png",
+    "processed_at": "2026-02-24T07:17:21.637Z"
+  },
+  {
+    "id": 26,
+    "name": "울산 26번 여성의원",
+    "official_url": "https://occupationalhealthblog.net/hospitalspecific/JDQ4MTYyMiM4MSMkMiMkNCMkMDAkMzgxOTYxIzMxIyQxIyQ3IyQ3OSQyNjEyMjIjNDEjJDEjJDgjJDgz/",
+    "captured_at": "2026-02-22T06:20:47.714Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/26_울산_26번_여성의원.png",
+    "processed_at": "2026-02-24T07:17:25.182Z"
+  },
+  {
+    "id": 27,
+    "name": "경기 27번 소아청소년과",
+    "official_url": "https://www.medical.or.kr/pocheon/contentsInfo.do?menu_no=1722&cts_no=1031&menu_gb=POCHEON",
+    "captured_at": "2026-02-22T06:20:49.972Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/27_경기_27번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:17:28.695Z"
+  },
+  {
+    "id": 28,
+    "name": "광주 28번 소아청소년과",
+    "official_url": "http://www.ajoumedi.com/wp_2ds/02_01_view.html?code=prediatrics",
+    "captured_at": "2026-02-22T06:20:52.200Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/28_광주_28번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:17:32.666Z"
+  },
+  {
+    "id": 29,
+    "name": "울산 29번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/260000_10_4.html",
+    "captured_at": "2026-02-22T06:20:54.375Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/29_울산_29번_산부인과.png",
+    "processed_at": "2026-02-24T07:17:38.218Z"
+  },
+  {
+    "id": 30,
+    "name": "광주 30번 소아청소년과",
+    "official_url": "https://www.gwangjucentralhospital.co.kr/pediatrics/immunization.html",
+    "captured_at": "2026-02-22T06:20:56.694Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/30_광주_30번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:17:41.870Z"
+  },
+  {
+    "id": 31,
+    "name": "서울 31번 여성의원",
+    "official_url": "https://doctornow.co.kr/hospitals/DWVQ44",
+    "captured_at": "2026-02-22T06:20:58.974Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/31_서울_31번_여성의원.png",
+    "processed_at": "2026-02-24T07:17:46.064Z"
+  },
+  {
+    "id": 32,
+    "name": "울산 32번 여성의원",
+    "official_url": "http://www.cityhospital.co.kr/cityh/info01_21.html",
+    "captured_at": "2026-02-22T06:21:01.323Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/32_울산_32번_여성의원.png",
+    "processed_at": "2026-02-24T07:17:49.668Z"
+  },
+  {
+    "id": 33,
+    "name": "부산 33번 소아청소년과",
+    "official_url": "http://www.srtimes.kr/",
+    "captured_at": "2026-02-22T06:21:03.565Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/33_부산_33번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:17:54.716Z"
+  },
+  {
+    "id": 34,
+    "name": "서울 34번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/44537?addressCode=1168010100",
+    "captured_at": "2026-02-22T06:21:05.852Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/34_서울_34번_여성의원.png",
+    "processed_at": "2026-02-24T07:17:58.136Z"
+  },
+  {
+    "id": 35,
+    "name": "경기 35번 여성의원",
+    "official_url": "http://www.miennewoman.co.kr/bbs/board.php?bo_table=naver&wr_id=737",
+    "captured_at": "2026-02-22T06:21:08.183Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/35_경기_35번_여성의원.png",
+    "processed_at": "2026-02-24T07:18:02.127Z"
+  },
+  {
+    "id": 36,
+    "name": "경기 36번 소아청소년과",
+    "official_url": "https://cashdoc.me/hospital/A2105751/%EC%95%84%EC%9D%B4%EC%95%A4%EB%88%84%EB%A6%AC%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T06:21:10.435Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/36_경기_36번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:18:06.318Z"
+  },
+  {
+    "id": 37,
+    "name": "서울 37번 소아청소년과",
+    "official_url": "https://www.segye.com/newsView/20230102513282?OutUrl=naver",
+    "captured_at": "2026-02-22T06:21:12.761Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/37_서울_37번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:18:10.712Z"
+  },
+  {
+    "id": 38,
+    "name": "울산 38번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EC%9A%B8%EC%82%B0",
+    "captured_at": "2026-02-22T06:21:15.056Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/38_울산_38번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:18:14.835Z"
+  },
+  {
+    "id": 39,
+    "name": "경기 39번 산부인과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDU4MTI3MSM1MSMkMiMkMCMkMDAkNDgxMzUxIzMxIyQxIyQzIyQ3MiQyNjE0ODEjODEjJDEjJDYjJDgz",
+    "captured_at": "2026-02-22T06:21:17.316Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/39_경기_39번_산부인과.png",
+    "processed_at": "2026-02-24T07:18:19.075Z"
+  },
+  {
+    "id": 40,
+    "name": "경기 40번 여성의원",
+    "official_url": "https://www.onbomgynecology.co.kr/default/",
+    "captured_at": "2026-02-22T06:21:19.586Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/40_경기_40번_여성의원.png",
+    "processed_at": "2026-02-24T07:18:22.736Z"
+  },
+  {
+    "id": 41,
+    "name": "대전 41번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/28752?addressCode=1168010100",
+    "captured_at": "2026-02-22T06:21:21.903Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/41_대전_41번_여성의원.png",
+    "processed_at": "2026-02-24T07:18:25.953Z"
+  },
+  {
+    "id": 42,
+    "name": "부산 42번 산부인과",
+    "official_url": "https://health3.korea724.info/en/%EB%AF%B8%EC%A6%88%EC%9B%B0%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-82-51-365-3575.html",
+    "captured_at": "2026-02-22T06:21:24.107Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/42_부산_42번_산부인과.png",
+    "processed_at": "2026-02-24T07:18:32.102Z"
+  },
+  {
+    "id": 43,
+    "name": "대전 43번 소아청소년과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM2MSMkMiMkMiMkMDAkNDgxMzUxIzIxIyQxIyQxIyQwMyQ0NjEwMDIjNTEjJDEjJDYjJDgz",
+    "captured_at": "2026-02-22T06:21:26.459Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/43_대전_43번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:18:36.027Z"
+  },
+  {
+    "id": 44,
+    "name": "울산 44번 산부인과",
+    "official_url": "http://oldpc.co.kr/bbs/search.php?sfl=wr_subject||wr_content&sop=and&stx=%EC%9A%B8%EC%82%B0+%EC%95%BC%EC%9D%8C%EB%8F%99+%EA%B9%80%EC%9D%80%EA%B7%9C%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC",
+    "captured_at": "2026-02-22T06:21:28.689Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/44_울산_44번_산부인과.png",
+    "processed_at": "2026-02-24T07:18:40.271Z"
+  },
+  {
+    "id": 45,
+    "name": "경기 45번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/310000_312600_10_1.html",
+    "captured_at": "2026-02-22T06:21:30.851Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/45_경기_45번_산부인과.png",
+    "processed_at": "2026-02-24T07:18:43.852Z"
+  },
+  {
+    "id": 46,
+    "name": "인천 46번 소아청소년과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3355887&comp_tp_cd=TEL&upjong_cd=861206",
+    "captured_at": "2026-02-22T06:21:33.158Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/46_인천_46번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:18:47.292Z"
+  },
+  {
+    "id": 47,
+    "name": "인천 47번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/220000_11_1.html",
+    "captured_at": "2026-02-22T06:21:35.416Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/47_인천_47번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:18:52.748Z"
+  },
+  {
+    "id": 48,
+    "name": "대전 48번 산부인과",
+    "official_url": "https://a4.slatstory.com/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C-%EC%9D%BC%EC%9A%94%EC%9D%BC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%A7%84%EB%A3%8C-%EB%B3%91%EC%9B%90%EA%B3%BC-%EC%8B%9C%EA%B0%84%EC%9D%80/",
+    "captured_at": "2026-02-22T06:21:37.548Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/48_대전_48번_산부인과.png",
+    "processed_at": "2026-02-24T07:18:56.587Z"
+  },
+  {
+    "id": 49,
+    "name": "경기 49번 소아청소년과",
+    "official_url": "https://www.hidoc.co.kr/find/result/view/H0000165188",
+    "captured_at": "2026-02-22T06:21:39.820Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/49_경기_49번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:19:00.830Z"
+  },
+  {
+    "id": 50,
+    "name": "광주 50번 소아청소년과",
+    "official_url": "https://ewmaalewad.com/28256/",
+    "captured_at": "2026-02-22T06:21:42.174Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/50_광주_50번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:19:05.515Z"
+  },
+  {
+    "id": 51,
+    "name": "서울 51번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/44537?addressCode=1168010100",
+    "captured_at": "2026-02-22T06:21:44.460Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/51_서울_51번_여성의원.png",
+    "processed_at": "2026-02-24T07:19:08.819Z"
+  },
+  {
+    "id": 52,
+    "name": "대전 52번 소아청소년과",
+    "official_url": "https://www.daejeon.go.kr/drh/life/NightfloatOntheDayView.do?nightfloatSeq=57&menuSeq=1678",
+    "captured_at": "2026-02-22T06:21:46.833Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/52_대전_52번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:19:13.069Z"
+  },
+  {
+    "id": 53,
+    "name": "경기 53번 소아청소년과",
+    "official_url": "https://www.yna.co.kr/view/AKR20250902156600530",
+    "captured_at": "2026-02-22T06:21:49.141Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/53_경기_53번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:19:16.780Z"
+  },
+  {
+    "id": 54,
+    "name": "경기 54번 소아청소년과",
+    "official_url": "https://ddocdoc.com/hospital/603dcd423d2c0d0011b9c110",
+    "captured_at": "2026-02-22T06:21:51.404Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/54_경기_54번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:19:20.253Z"
+  },
+  {
+    "id": 55,
+    "name": "경기 55번 산부인과",
+    "official_url": "https://www.goodoc.co.kr/hospitals/22450?addressCode=1168010100",
+    "captured_at": "2026-02-22T06:21:53.671Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/55_경기_55번_산부인과.png",
+    "processed_at": "2026-02-24T07:19:23.560Z"
+  },
+  {
+    "id": 56,
+    "name": "울산 56번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EC%9A%B8%EC%82%B0",
+    "captured_at": "2026-02-22T06:21:55.873Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/56_울산_56번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:19:26.950Z"
+  },
+  {
+    "id": 57,
+    "name": "대전 57번 산부인과",
+    "official_url": "https://trawuxenr.com/4510/",
+    "captured_at": "2026-02-22T06:21:58.055Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/57_대전_57번_산부인과.png",
+    "processed_at": "2026-02-24T07:19:30.632Z"
+  },
+  {
+    "id": 58,
+    "name": "광주 58번 산부인과",
+    "official_url": "http://www.edenhospital.co.kr/",
+    "captured_at": "2026-02-22T06:22:00.203Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/58_광주_58번_산부인과.png",
+    "processed_at": "2026-02-24T07:19:34.346Z"
+  },
+  {
+    "id": 59,
+    "name": "서울 59번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T06:22:02.524Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/59_서울_59번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:19:39.516Z"
+  },
+  {
+    "id": 60,
+    "name": "인천 60번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/detail?hospital_id=20454",
+    "captured_at": "2026-02-22T06:22:04.737Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/60_인천_60번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:19:42.730Z"
+  },
+  {
+    "id": 61,
+    "name": "서울 61번 여성의원",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=79183",
+    "captured_at": "2026-02-22T06:22:07.056Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/61_서울_61번_여성의원.png",
+    "processed_at": "2026-02-24T07:19:46.464Z"
+  },
+  {
+    "id": 62,
+    "name": "부산 62번 소아청소년과",
+    "official_url": "https://kstartupcost.com/%EB%B6%80%EC%82%B0-%EB%8F%99%EB%9E%98%EA%B5%AC-24%EC%8B%9C%EA%B0%84-%EC%86%8C%EC%95%84%EA%B3%BC-%EB%8B%B9%EC%A7%81%EB%B3%91%EC%9B%90-%EC%95%BC%EA%B0%84-%EB%B0%8F-%EC%A3%BC%EB%A7%90-%EC%A7%84%EB%A3%8C/",
+    "captured_at": "2026-02-22T06:22:09.359Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/62_부산_62번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:19:50.821Z"
+  },
+  {
+    "id": 63,
+    "name": "인천 63번 여성의원",
+    "official_url": "https://k-info.me/hospital/%EC%9D%B8%EC%B2%9C_%EC%9D%B8%EC%B2%9C%EB%82%A8%EB%8F%99%EA%B5%AC_%EA%B5%AC%EC%9B%94%EB%8F%99_%EC%84%9C%EC%9A%B8%EC%95%84%EC%9D%B4%EB%B9%84%EC%97%90%ED%94%84%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T06:22:11.632Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/63_인천_63번_여성의원.png",
+    "processed_at": "2026-02-24T07:19:55.426Z"
+  },
+  {
+    "id": 64,
+    "name": "인천 64번 산부인과",
+    "official_url": "https://hospital.vicharas.net/info/%EB%8B%A4%EC%A0%95%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90-%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C-%EB%82%A8%EB%8F%99%EA%B5%AC-%EA%B5%AC%EC%9B%94%EB%8F%99/",
+    "captured_at": "2026-02-22T06:22:13.874Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/64_인천_64번_산부인과.png",
+    "processed_at": "2026-02-24T07:19:59.302Z"
+  },
+  {
+    "id": 65,
+    "name": "인천 65번 여성의원",
+    "official_url": "http://www.cdkobgy.co.kr/?idx=c66bae7becdca3/c66bb10915d851",
+    "captured_at": "2026-02-22T06:22:16.121Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/65_인천_65번_여성의원.png",
+    "processed_at": "2026-02-24T07:20:03.295Z"
+  },
+  {
+    "id": 66,
+    "name": "광주 66번 여성의원",
+    "official_url": "http://shinelady.co.kr/",
+    "captured_at": "2026-02-22T06:22:18.305Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/66_광주_66번_여성의원.png",
+    "processed_at": "2026-02-24T07:20:06.836Z"
+  },
+  {
+    "id": 67,
+    "name": "부산 67번 여성의원",
+    "official_url": "https://momshospital.com/place/110",
+    "captured_at": "2026-02-22T06:22:20.534Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/67_부산_67번_여성의원.png",
+    "processed_at": "2026-02-24T07:20:10.453Z"
+  },
+  {
+    "id": 68,
+    "name": "광주 68번 여성의원",
+    "official_url": "http://www.kjdaily.com/read.php3?aid=1584871816504594002",
+    "captured_at": "2026-02-22T06:22:22.801Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/68_광주_68번_여성의원.png",
+    "processed_at": "2026-02-24T07:20:13.898Z"
+  },
+  {
+    "id": 69,
+    "name": "경기 69번 산부인과",
+    "official_url": "https://abc.sugarnew.co.kr/%EC%88%98%EC%9B%90%EC%8B%9C-%EC%9E%A5%EC%95%88%EA%B5%AC-%EC%9D%BC%EC%9A%94%EC%9D%BC-24%EC%8B%9C%EA%B0%84-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%96%B4%EB%94%94-%EC%A3%BC%EB%A7%90-%EC%A7%84%EB%A3%8C/",
+    "captured_at": "2026-02-22T06:22:25.002Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/69_경기_69번_산부인과.png",
+    "processed_at": "2026-02-24T07:20:19.071Z"
+  },
+  {
+    "id": 70,
+    "name": "울산 70번 산부인과",
+    "official_url": "https://health3.korea724.info/en/%EC%86%90%EB%B3%91%EB%AF%BC%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90-82-52-273-7878.html",
+    "captured_at": "2026-02-22T06:22:27.218Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/70_울산_70번_산부인과.png",
+    "processed_at": "2026-02-24T07:20:24.375Z"
+  },
+  {
+    "id": 71,
+    "name": "대구 71번 산부인과",
+    "official_url": "https://www.momsstory.co.kr/01_sub/01_sub_3.html?bbs_cmd=view&no=8503",
+    "captured_at": "2026-02-22T06:22:29.538Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/71_대구_71번_산부인과.png",
+    "processed_at": "2026-02-24T07:20:28.169Z"
+  },
+  {
+    "id": 72,
+    "name": "서울 72번 산부인과",
+    "official_url": "https://www.women119.co.kr/bbs/board.php?bo_table=0501&wr_id=123",
+    "captured_at": "2026-02-22T06:22:31.799Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/72_서울_72번_산부인과.png",
+    "processed_at": "2026-02-24T07:20:31.781Z"
+  },
+  {
+    "id": 73,
+    "name": "인천 73번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3259596&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-22T06:22:34.092Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/73_인천_73번_여성의원.png",
+    "processed_at": "2026-02-24T07:20:35.092Z"
+  },
+  {
+    "id": 74,
+    "name": "광주 74번 소아청소년과",
+    "official_url": "https://www.gwangjucentralhospital.co.kr/pediatrics/immunization.html",
+    "captured_at": "2026-02-22T06:22:36.338Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/74_광주_74번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:20:38.506Z"
+  },
+  {
+    "id": 75,
+    "name": "대구 75번 산부인과",
+    "official_url": "https://www.duu.kr/",
+    "captured_at": "2026-02-22T06:22:38.651Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/75_대구_75번_산부인과.png",
+    "processed_at": "2026-02-24T07:20:43.133Z"
+  },
+  {
+    "id": 76,
+    "name": "대구 76번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T06:22:40.858Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/76_대구_76번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:20:47.973Z"
+  },
+  {
+    "id": 77,
+    "name": "경기 77번 산부인과",
+    "official_url": "https://daonna.com/view/488308/",
+    "captured_at": "2026-02-22T06:22:43.134Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/77_경기_77번_산부인과.png",
+    "processed_at": "2026-02-24T07:20:53.079Z"
+  },
+  {
+    "id": 78,
+    "name": "대구 78번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T06:22:45.460Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/78_대구_78번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:20:57.138Z"
+  },
+  {
+    "id": 79,
+    "name": "광주 79번 소아청소년과",
+    "official_url": "http://www.ajoumedi.com/wp_2ds/02_01_view.html?code=prediatrics",
+    "captured_at": "2026-02-22T06:22:47.666Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/79_광주_79번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:21:00.901Z"
+  },
+  {
+    "id": 80,
+    "name": "서울 80번 소아청소년과",
+    "official_url": "https://child.snuh.org/reservation/meddept/PEF0/childLocation.do",
+    "captured_at": "2026-02-22T06:22:49.931Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/80_서울_80번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:21:04.759Z"
+  },
+  {
+    "id": 81,
+    "name": "울산 81번 산부인과",
+    "official_url": "https://cashdoc.me/hospital/A1700525/%EA%B9%80%EC%84%B1%ED%9D%AC%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T06:22:52.071Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/81_울산_81번_산부인과.png",
+    "processed_at": "2026-02-24T07:21:08.351Z"
+  },
+  {
+    "id": 82,
+    "name": "서울 82번 소아청소년과",
+    "official_url": "http://www.samsunghospital.com/home/reservation/deptDetailInfo.do?DP_CODE=PED4",
+    "captured_at": "2026-02-22T06:22:54.342Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/82_서울_82번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:21:12.194Z"
+  },
+  {
+    "id": 83,
+    "name": "대전 83번 산부인과",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=34871",
+    "captured_at": "2026-02-22T06:22:56.525Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/83_대전_83번_산부인과.png",
+    "processed_at": "2026-02-24T07:21:16.004Z"
+  },
+  {
+    "id": 84,
+    "name": "인천 84번 여성의원",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=85424",
+    "captured_at": "2026-02-22T06:22:58.876Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/84_인천_84번_여성의원.png",
+    "processed_at": "2026-02-24T07:21:19.788Z"
+  },
+  {
+    "id": 85,
+    "name": "경기 85번 소아청소년과",
+    "official_url": "https://www.medical.or.kr/pocheon/contentsInfo.do?menu_no=1722&cts_no=1031&menu_gb=POCHEON",
+    "captured_at": "2026-02-22T06:23:01.213Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/85_경기_85번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:21:23.161Z"
+  },
+  {
+    "id": 86,
+    "name": "인천 86번 소아청소년과",
+    "official_url": "https://www.hospdatainfo.com/hosp_main/hosp_view?hosp_id=A1401235",
+    "captured_at": "2026-02-22T06:23:03.476Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/86_인천_86번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:21:26.872Z"
+  },
+  {
+    "id": 87,
+    "name": "대전 87번 여성의원",
+    "official_url": "https://www.bell-rajue.com/default/",
+    "captured_at": "2026-02-22T06:23:05.735Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/87_대전_87번_여성의원.png",
+    "processed_at": "2026-02-24T07:21:30.346Z"
+  },
+  {
+    "id": 88,
+    "name": "부산 88번 여성의원",
+    "official_url": "https://icloudhospital.com/ko/hospitals/%EC%84%BC%ED%85%80%ED%9D%AC%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90-haeundae-busan",
+    "captured_at": "2026-02-22T06:23:07.958Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/88_부산_88번_여성의원.png",
+    "processed_at": "2026-02-24T07:21:34.658Z"
+  },
+  {
+    "id": 89,
+    "name": "경기 89번 산부인과",
+    "official_url": "https://occupationalhealthblog.net/hospital/obstetrics/Gyeonggi-do/Suwon-si/419/",
+    "captured_at": "2026-02-22T06:23:10.135Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/89_경기_89번_산부인과.png",
+    "processed_at": "2026-02-24T07:21:37.821Z"
+  },
+  {
+    "id": 90,
+    "name": "부산 90번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/210000_10_11.html",
+    "captured_at": "2026-02-22T06:23:12.325Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/90_부산_90번_산부인과.png",
+    "processed_at": "2026-02-24T07:21:41.620Z"
+  },
+  {
+    "id": 91,
+    "name": "광주 91번 소아청소년과",
+    "official_url": "http://www.ajoumedi.com/wp_2ds/02_01_view.html?code=prediatrics",
+    "captured_at": "2026-02-22T06:23:14.644Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/91_광주_91번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:21:45.066Z"
+  },
+  {
+    "id": 92,
+    "name": "인천 92번 산부인과",
+    "official_url": "https://www.ainwh.co.kr/centerMenu/refNetworkList.do?deptNo=43&deptMenuCode=005000000",
+    "captured_at": "2026-02-22T06:23:16.940Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/92_인천_92번_산부인과.png",
+    "processed_at": "2026-02-24T07:21:48.798Z"
+  },
+  {
+    "id": 93,
+    "name": "경기 93번 소아청소년과",
+    "official_url": "https://hdr.purpleo.co.kr/view/39087",
+    "captured_at": "2026-02-22T06:23:19.292Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/93_경기_93번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:21:52.594Z"
+  },
+  {
+    "id": 94,
+    "name": "대구 94번 산부인과",
+    "official_url": "https://www.joymombaby.com/notice",
+    "captured_at": "2026-02-22T06:23:21.549Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/94_대구_94번_산부인과.png",
+    "processed_at": "2026-02-24T07:21:56.286Z"
+  },
+  {
+    "id": 95,
+    "name": "부산 95번 여성의원",
+    "official_url": "https://cashdoc.me/hospital/A1206422/%EC%84%BC%ED%85%80%ED%9D%AC%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T06:23:23.844Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/95_부산_95번_여성의원.png",
+    "processed_at": "2026-02-24T07:22:00.170Z"
+  },
+  {
+    "id": 96,
+    "name": "광주 96번 여성의원",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM3MSMkMiMkMCMkMDAkMzgxOTYxIzIxIyQxIyQxIyQ5OSQ0NjEwMDIjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T06:23:26.085Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/96_광주_96번_여성의원.png",
+    "processed_at": "2026-02-24T07:22:04.295Z"
+  },
+  {
+    "id": 97,
+    "name": "광주 97번 여성의원",
+    "official_url": "http://shinelady.co.kr/",
+    "captured_at": "2026-02-22T06:23:28.295Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/97_광주_97번_여성의원.png",
+    "processed_at": "2026-02-24T07:22:07.487Z"
+  },
+  {
+    "id": 98,
+    "name": "서울 98번 소아청소년과",
+    "official_url": "https://www.modoodoc.com/hospital/38213/99%EC%84%9C%EC%9A%B8%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC%EC%9D%98%EC%9B%90-%EB%B6%80%EC%82%B0-%EC%98%A8%EC%B2%9C%EB%8F%99",
+    "captured_at": "2026-02-22T06:23:30.658Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/98_서울_98번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:22:11.652Z"
+  },
+  {
+    "id": 99,
+    "name": "대구 99번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T06:23:32.973Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/99_대구_99번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:22:16.337Z"
+  },
+  {
+    "id": 100,
+    "name": "부산 100번 산부인과",
+    "official_url": "http://www.srtimes.kr/",
+    "captured_at": "2026-02-22T06:23:35.252Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/100_부산_100번_산부인과.png",
+    "processed_at": "2026-02-24T07:22:20.551Z"
+  },
+  {
+    "id": 101,
+    "name": "경기 101번 산부인과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=4433497&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-22T06:23:37.366Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/101_경기_101번_산부인과.png",
+    "processed_at": "2026-02-24T07:22:23.809Z"
+  },
+  {
+    "id": 102,
+    "name": "부산 102번 소아청소년과",
+    "official_url": "https://www.youtube.com/channel/UCAzPaJvtCXHW3f7AkZXOgkA",
+    "captured_at": "2026-02-22T16:57:02.620Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/102_부산_102번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:22:27.853Z"
+  },
+  {
+    "id": 103,
+    "name": "대구 103번 소아청소년과",
+    "official_url": "https://dongsan.dsmc.or.kr:49870/content/02depart/01_0102.php?mp_idx=65&mc_tab=&mc_idx=44",
+    "captured_at": "2026-02-22T16:57:04.859Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/103_대구_103번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:22:32.415Z"
+  },
+  {
+    "id": 104,
+    "name": "서울 104번 여성의원",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=20274",
+    "captured_at": "2026-02-22T16:57:07.099Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/104_서울_104번_여성의원.png",
+    "processed_at": "2026-02-24T07:22:35.916Z"
+  },
+  {
+    "id": 105,
+    "name": "대구 105번 산부인과",
+    "official_url": "https://onwonderfultoday.blogspot.com/2024/05/daegu-woman-pregnacy-doctor.html",
+    "captured_at": "2026-02-22T16:57:09.324Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/105_대구_105번_산부인과.png",
+    "processed_at": "2026-02-24T07:22:40.579Z"
+  },
+  {
+    "id": 106,
+    "name": "서울 106번 산부인과",
+    "official_url": "https://cashdoc.me/hospital/A1116458/%EC%A7%80%EC%9D%B8%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:57:11.398Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/106_서울_106번_산부인과.png",
+    "processed_at": "2026-02-24T07:22:44.210Z"
+  },
+  {
+    "id": 107,
+    "name": "부산 107번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/57003?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:13.586Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/107_부산_107번_여성의원.png",
+    "processed_at": "2026-02-24T07:22:47.592Z"
+  },
+  {
+    "id": 108,
+    "name": "서울 108번 여성의원",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=26823",
+    "captured_at": "2026-02-22T16:57:15.747Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/108_서울_108번_여성의원.png",
+    "processed_at": "2026-02-24T07:22:52.112Z"
+  },
+  {
+    "id": 109,
+    "name": "경기 109번 여성의원",
+    "official_url": "https://daonna.com/view/490562/",
+    "captured_at": "2026-02-22T16:57:17.914Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/109_경기_109번_여성의원.png",
+    "processed_at": "2026-02-24T07:22:57.012Z"
+  },
+  {
+    "id": 110,
+    "name": "경기 110번 산부인과",
+    "official_url": "https://findby.co.kr/search?q=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%97%AC%EC%A3%BC%EC%8B%9C%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC&rq=2",
+    "captured_at": "2026-02-22T16:57:20.074Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/110_경기_110번_산부인과.png",
+    "processed_at": "2026-02-24T07:23:01.223Z"
+  },
+  {
+    "id": 111,
+    "name": "대구 111번 산부인과",
+    "official_url": "https://www.yeongnam.com/web/view.php?key=20240929010003454",
+    "captured_at": "2026-02-22T16:57:22.199Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/111_대구_111번_산부인과.png",
+    "processed_at": "2026-02-24T07:23:05.119Z"
+  },
+  {
+    "id": 112,
+    "name": "광주 112번 여성의원",
+    "official_url": "http://duli.co.kr/web/splus/kmap/view.php?sigun=6290000&gugun=3610000&keyno=209&keyname=%EC%8A%A4%ED%85%94%EB%9D%BC%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90&keylink=PHMA120213610019041100004",
+    "captured_at": "2026-02-22T16:57:24.388Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/112_광주_112번_여성의원.png",
+    "processed_at": "2026-02-24T07:23:09.201Z"
+  },
+  {
+    "id": 113,
+    "name": "대전 113번 산부인과",
+    "official_url": "http://oldpc.co.kr/bbs/search.php?sfl=wr_subject||wr_content&sop=and&stx=%EB%8C%80%EC%A0%84+%EB%AF%B8%EC%86%8C%EB%8B%B4%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC",
+    "captured_at": "2026-02-22T16:57:26.457Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/113_대전_113번_산부인과.png",
+    "processed_at": "2026-02-24T07:23:13.391Z"
+  },
+  {
+    "id": 114,
+    "name": "인천 114번 산부인과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3271584&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-22T16:57:28.637Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/114_인천_114번_산부인과.png",
+    "processed_at": "2026-02-24T07:23:16.611Z"
+  },
+  {
+    "id": 115,
+    "name": "서울 115번 산부인과",
+    "official_url": "https://momshospital.com/list/emergency",
+    "captured_at": "2026-02-22T16:57:30.745Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/115_서울_115번_산부인과.png",
+    "processed_at": "2026-02-24T07:23:20.154Z"
+  },
+  {
+    "id": 116,
+    "name": "인천 116번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/detail?hospital_id=20454",
+    "captured_at": "2026-02-22T16:57:32.959Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/116_인천_116번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:23:23.615Z"
+  },
+  {
+    "id": 117,
+    "name": "부산 117번 소아청소년과",
+    "official_url": "https://www.youtube.com/channel/UCAzPaJvtCXHW3f7AkZXOgkA",
+    "captured_at": "2026-02-22T16:57:35.137Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/117_부산_117번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:23:27.373Z"
+  },
+  {
+    "id": 118,
+    "name": "대전 118번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T16:57:37.322Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/118_대전_118번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:23:31.147Z"
+  },
+  {
+    "id": 119,
+    "name": "대구 119번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T16:57:39.477Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/119_대구_119번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:23:35.271Z"
+  },
+  {
+    "id": 120,
+    "name": "대구 120번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/75162?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:41.690Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/120_대구_120번_여성의원.png",
+    "processed_at": "2026-02-24T07:23:38.575Z"
+  },
+  {
+    "id": 121,
+    "name": "대구 121번 여성의원",
+    "official_url": "https://www.idaegu.com/news/articleView.html?idxno=395886",
+    "captured_at": "2026-02-22T16:57:43.926Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/121_대구_121번_여성의원.png",
+    "processed_at": "2026-02-24T07:23:42.369Z"
+  },
+  {
+    "id": 122,
+    "name": "대전 122번 산부인과",
+    "official_url": "https://ggha.net/content/view.php?id=43946",
+    "captured_at": "2026-02-22T16:57:45.966Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/122_대전_122번_산부인과.png",
+    "processed_at": "2026-02-24T07:23:46.039Z"
+  },
+  {
+    "id": 123,
+    "name": "울산 123번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3964428&comp_tp_cd=TEL&upjong_cd=861229",
+    "captured_at": "2026-02-22T16:57:48.187Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/123_울산_123번_여성의원.png",
+    "processed_at": "2026-02-24T07:23:49.275Z"
+  },
+  {
+    "id": 124,
+    "name": "인천 124번 산부인과",
+    "official_url": "https://www.kyeonggi.com/article/20221018580164",
+    "captured_at": "2026-02-22T16:57:50.316Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/124_인천_124번_산부인과.png",
+    "processed_at": "2026-02-24T07:23:53.340Z"
+  },
+  {
+    "id": 125,
+    "name": "서울 125번 산부인과",
+    "official_url": "https://www.modoodoc.com/hospital/9380/%EC%97%B0%EC%84%B8%EB%9E%91%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90-%EC%84%9C%EC%9A%B8%EC%8B%9C-%EC%A4%91%EA%B5%AC-%EB%82%A8%EC%B0%BD%EB%8F%99",
+    "captured_at": "2026-02-22T16:57:52.404Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/125_서울_125번_산부인과.png",
+    "processed_at": "2026-02-24T07:23:57.702Z"
+  },
+  {
+    "id": 126,
+    "name": "대구 126번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCF9vbHlZpz7FbOAky3fnYxw",
+    "captured_at": "2026-02-22T16:57:54.425Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/126_대구_126번_산부인과.png",
+    "processed_at": "2026-02-24T07:24:01.715Z"
+  },
+  {
+    "id": 127,
+    "name": "대전 127번 여성의원",
+    "official_url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002655431",
+    "captured_at": "2026-02-22T16:57:56.586Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/127_대전_127번_여성의원.png",
+    "processed_at": "2026-02-24T07:24:05.999Z"
+  },
+  {
+    "id": 128,
+    "name": "경기 128번 소아청소년과",
+    "official_url": "https://ddocdoc.com/hospital/5a4c9ef19f00a40e144d7834",
+    "captured_at": "2026-02-22T16:57:58.704Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/128_경기_128번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:24:09.351Z"
+  },
+  {
+    "id": 129,
+    "name": "대구 129번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/42136?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:58:00.911Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/129_대구_129번_여성의원.png",
+    "processed_at": "2026-02-24T07:24:12.628Z"
+  },
+  {
+    "id": 130,
+    "name": "울산 130번 여성의원",
+    "official_url": "https://ddocdoc.com/hospital/57171f12e207df2709f188bd",
+    "captured_at": "2026-02-22T16:58:03.084Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/130_울산_130번_여성의원.png",
+    "processed_at": "2026-02-24T07:24:15.856Z"
+  },
+  {
+    "id": 131,
+    "name": "부산 131번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/57003?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:58:05.302Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/131_부산_131번_여성의원.png",
+    "processed_at": "2026-02-24T07:24:19.182Z"
+  },
+  {
+    "id": 132,
+    "name": "대전 132번 산부인과",
+    "official_url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2168926",
+    "captured_at": "2026-02-22T16:58:07.326Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/132_대전_132번_산부인과.png",
+    "processed_at": "2026-02-24T07:24:23.397Z"
+  },
+  {
+    "id": 133,
+    "name": "부산 133번 산부인과",
+    "official_url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=261031",
+    "captured_at": "2026-02-22T16:58:09.436Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/133_부산_133번_산부인과.png",
+    "processed_at": "2026-02-24T07:24:27.489Z"
+  },
+  {
+    "id": 134,
+    "name": "대전 134번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T16:58:11.626Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/134_대전_134번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:24:30.897Z"
+  },
+  {
+    "id": 135,
+    "name": "경기 135번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/310000_10_12.html",
+    "captured_at": "2026-02-22T16:58:13.733Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/135_경기_135번_산부인과.png",
+    "processed_at": "2026-02-24T07:24:34.719Z"
+  },
+  {
+    "id": 136,
+    "name": "울산 136번 여성의원",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMiMkNCMkMDAkNDgxMzUxIzIxIyQxIyQxIyQxMyQzNjEyMjIjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T16:58:15.904Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/136_울산_136번_여성의원.png",
+    "processed_at": "2026-02-24T07:24:38.733Z"
+  },
+  {
+    "id": 137,
+    "name": "대구 137번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCF9vbHlZpz7FbOAky3fnYxw",
+    "captured_at": "2026-02-22T16:58:17.973Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/137_대구_137번_산부인과.png",
+    "processed_at": "2026-02-24T07:24:42.712Z"
+  },
+  {
+    "id": 138,
+    "name": "울산 138번 산부인과",
+    "official_url": "https://daonna.com/view/529340/",
+    "captured_at": "2026-02-22T16:58:19.993Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/138_울산_138번_산부인과.png",
+    "processed_at": "2026-02-24T07:24:47.600Z"
+  },
+  {
+    "id": 139,
+    "name": "광주 139번 산부인과",
+    "official_url": "https://rubyvigor.com/%EA%B4%91%EC%A3%BC-%EB%B6%81%EA%B5%AC-24%EC%8B%9C%EA%B0%84-%EC%9D%BC%EC%9A%94%EC%9D%BC-%EC%97%AC%EC%9D%98%EC%82%AC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%97%AC%EC%84%B1%EB%B3%91%EC%9B%90/",
+    "captured_at": "2026-02-22T16:58:22.083Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/139_광주_139번_산부인과.png",
+    "processed_at": "2026-02-24T07:25:03.783Z"
+  },
+  {
+    "id": 140,
+    "name": "서울 140번 산부인과",
+    "official_url": "https://www.hidoc.co.kr/find/result/view/H0000155858",
+    "captured_at": "2026-02-22T16:58:24.255Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/140_서울_140번_산부인과.png",
+    "processed_at": "2026-02-24T07:25:07.413Z"
+  },
+  {
+    "id": 141,
+    "name": "울산 141번 여성의원",
+    "official_url": "https://www.fnnews.com/news/202009131051343189",
+    "captured_at": "2026-02-22T16:58:26.383Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/141_울산_141번_여성의원.png",
+    "processed_at": "2026-02-24T07:25:11.576Z"
+  },
+  {
+    "id": 142,
+    "name": "서울 142번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T16:58:28.520Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/142_서울_142번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:25:16.301Z"
+  },
+  {
+    "id": 143,
+    "name": "경기 143번 산부인과",
+    "official_url": "https://pervsi.com/info/board.php?board=hospital&command=body&no=47368",
+    "captured_at": "2026-02-22T16:58:30.608Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/143_경기_143번_산부인과.png",
+    "processed_at": "2026-02-24T07:25:20.335Z"
+  },
+  {
+    "id": 144,
+    "name": "광주 144번 산부인과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM3MSMkMiMkMCMkMDAkNDgxMzUxIzMxIyQxIyQ3IyQ4OSQyNjEwMDIjNDEjJDEjJDQjJDgz",
+    "captured_at": "2026-02-22T16:58:32.713Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/144_광주_144번_산부인과.png",
+    "processed_at": "2026-02-24T07:25:24.178Z"
+  },
+  {
+    "id": 145,
+    "name": "인천 145번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/220000_220005_11_1.html",
+    "captured_at": "2026-02-22T16:58:34.837Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/145_인천_145번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:25:28.493Z"
+  },
+  {
+    "id": 146,
+    "name": "울산 146번 산부인과",
+    "official_url": "https://news.kbs.co.kr/news/pc/main/main.html",
+    "captured_at": "2026-02-22T16:58:37.040Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/146_울산_146번_산부인과.png",
+    "processed_at": "2026-02-24T07:25:32.022Z"
+  },
+  {
+    "id": 147,
+    "name": "광주 147번 여성의원",
+    "official_url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001720599",
+    "captured_at": "2026-02-22T16:58:39.186Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/147_광주_147번_여성의원.png",
+    "processed_at": "2026-02-24T07:25:35.904Z"
+  },
+  {
+    "id": 148,
+    "name": "대전 148번 여성의원",
+    "official_url": "https://www.bell-rajue.com/default/",
+    "captured_at": "2026-02-22T16:58:41.363Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/148_대전_148번_여성의원.png",
+    "processed_at": "2026-02-24T07:25:39.126Z"
+  },
+  {
+    "id": 149,
+    "name": "광주 149번 여성의원",
+    "official_url": "http://shinelady.co.kr/135",
+    "captured_at": "2026-02-22T16:58:43.577Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/149_광주_149번_여성의원.png",
+    "processed_at": "2026-02-24T07:25:44.100Z"
+  },
+  {
+    "id": 150,
+    "name": "광주 150번 산부인과",
+    "official_url": "https://www.ggha.net/content/view.php?id=74527",
+    "captured_at": "2026-02-22T16:58:45.701Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/150_광주_150번_산부인과.png",
+    "processed_at": "2026-02-24T07:25:47.890Z"
+  },
+  {
+    "id": 151,
+    "name": "울산 151번 산부인과",
+    "official_url": "https://news.kbs.co.kr/news/pc/main/main.html",
+    "captured_at": "2026-02-22T16:58:47.729Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/151_울산_151번_산부인과.png",
+    "processed_at": "2026-02-24T07:25:51.387Z"
+  },
+  {
+    "id": 152,
+    "name": "울산 152번 여성의원",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMiMkNCMkMDAkMzgxNzAyIzExIyQxIyQzIyQ4MiQyNjE0ODEjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T16:58:49.895Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/152_울산_152번_여성의원.png",
+    "processed_at": "2026-02-24T07:25:55.325Z"
+  },
+  {
+    "id": 153,
+    "name": "부산 153번 산부인과",
+    "official_url": "https://medical.visitseoul.net/organization/hospital/hospitalDetail/74",
+    "captured_at": "2026-02-22T16:58:52.104Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/153_부산_153번_산부인과.png",
+    "processed_at": "2026-02-24T07:26:00.040Z"
+  },
+  {
+    "id": 154,
+    "name": "대전 154번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T16:58:54.250Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/154_대전_154번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:26:03.597Z"
+  },
+  {
+    "id": 155,
+    "name": "대구 155번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T16:58:56.379Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/155_대구_155번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:26:08.721Z"
+  },
+  {
+    "id": 156,
+    "name": "광주 156번 소아청소년과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3391547&comp_tp_cd=TEL&upjong_cd=861206",
+    "captured_at": "2026-02-22T16:58:58.496Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/156_광주_156번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:26:12.308Z"
+  },
+  {
+    "id": 157,
+    "name": "경기 157번 소아청소년과",
+    "official_url": "https://cashdoc.me/hospital/A2116570/%EC%97%B0%EC%84%B8%EA%B3%A0%EB%9E%98%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:59:00.625Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/157_경기_157번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:26:16.069Z"
+  },
+  {
+    "id": 158,
+    "name": "대전 158번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T16:59:02.898Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/158_대전_158번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:26:19.412Z"
+  },
+  {
+    "id": 159,
+    "name": "대구 159번 여성의원",
+    "official_url": "https://www.youtube.com/channel/UCY61VL0Lp1xVJOaX81F0Dlg",
+    "captured_at": "2026-02-22T16:59:05.091Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/159_대구_159번_여성의원.png",
+    "processed_at": "2026-02-24T07:26:23.509Z"
+  },
+  {
+    "id": 160,
+    "name": "광주 160번 산부인과",
+    "official_url": "https://www.dmitory.com/star/152252475",
+    "captured_at": "2026-02-22T16:59:07.261Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/160_광주_160번_산부인과.png",
+    "processed_at": "2026-02-24T07:26:26.695Z"
+  },
+  {
+    "id": 161,
+    "name": "부산 161번 산부인과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTAxMiM1MSMkMiMkMCMkMDAkMzgxMTkxIzExIyQxIyQ3IyQ4OSQyNjEyMjIjNjEjJDEjJDAjJDgz",
+    "captured_at": "2026-02-22T16:59:09.381Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/161_부산_161번_산부인과.png",
+    "processed_at": "2026-02-24T07:26:30.547Z"
+  },
+  {
+    "id": 162,
+    "name": "서울 162번 산부인과",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=62809",
+    "captured_at": "2026-02-22T16:59:11.520Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/162_서울_162번_산부인과.png",
+    "processed_at": "2026-02-24T07:26:34.944Z"
+  },
+  {
+    "id": 163,
+    "name": "광주 163번 여성의원",
+    "official_url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001720599",
+    "captured_at": "2026-02-22T16:59:13.669Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/163_광주_163번_여성의원.png",
+    "processed_at": "2026-02-24T07:26:38.803Z"
+  },
+  {
+    "id": 164,
+    "name": "서울 164번 산부인과",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=23210",
+    "captured_at": "2026-02-22T16:59:15.907Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/164_서울_164번_산부인과.png",
+    "processed_at": "2026-02-24T07:26:43.150Z"
+  },
+  {
+    "id": 165,
+    "name": "대구 165번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCF9vbHlZpz7FbOAky3fnYxw",
+    "captured_at": "2026-02-22T16:59:18.143Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/165_대구_165번_산부인과.png",
+    "processed_at": "2026-02-24T07:26:47.261Z"
+  },
+  {
+    "id": 166,
+    "name": "경기 166번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EA%B2%BD%EA%B8%B0",
+    "captured_at": "2026-02-22T16:59:20.303Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/166_경기_166번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:26:51.133Z"
+  },
+  {
+    "id": 167,
+    "name": "부산 167번 여성의원",
+    "official_url": "https://gall.dcinside.com/mgallery/board/view/?id=station&no=73257",
+    "captured_at": "2026-02-22T16:59:22.418Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/167_부산_167번_여성의원.png",
+    "processed_at": "2026-02-24T07:26:55.249Z"
+  },
+  {
+    "id": 168,
+    "name": "대전 168번 산부인과",
+    "official_url": "https://appraisal.localclean.kr/daejeon/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C-%EB%B0%98%EC%84%9D%EB%8F%99-%EC%9D%B8%EA%B7%BC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-16%EA%B3%B3-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0/",
+    "captured_at": "2026-02-22T16:59:24.484Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/168_대전_168번_산부인과.png",
+    "processed_at": "2026-02-24T07:26:58.535Z"
+  },
+  {
+    "id": 169,
+    "name": "대구 169번 여성의원",
+    "official_url": "https://www.youtube.com/channel/UCY61VL0Lp1xVJOaX81F0Dlg",
+    "captured_at": "2026-02-22T16:59:26.635Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/169_대구_169번_여성의원.png",
+    "processed_at": "2026-02-24T07:27:02.477Z"
+  },
+  {
+    "id": 170,
+    "name": "광주 170번 여성의원",
+    "official_url": "http://www.edenhospital.co.kr/",
+    "captured_at": "2026-02-22T16:59:28.742Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/170_광주_170번_여성의원.png",
+    "processed_at": "2026-02-24T07:27:05.714Z"
+  },
+  {
+    "id": 171,
+    "name": "울산 171번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/260000_260001_10_1.html",
+    "captured_at": "2026-02-22T16:59:30.870Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/171_울산_171번_산부인과.png",
+    "processed_at": "2026-02-24T07:27:09.385Z"
+  },
+  {
+    "id": 172,
+    "name": "울산 172번 여성의원",
+    "official_url": "http://www.ujeil.com/news/articleView.html?idxno=58581",
+    "captured_at": "2026-02-22T16:59:33.056Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/172_울산_172번_여성의원.png",
+    "processed_at": "2026-02-24T07:27:13.083Z"
+  },
+  {
+    "id": 173,
+    "name": "경기 173번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/310000_11_1.html",
+    "captured_at": "2026-02-22T16:59:35.264Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/173_경기_173번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:27:17.075Z"
+  },
+  {
+    "id": 174,
+    "name": "부산 174번 여성의원",
+    "official_url": "https://mobile.hidoc.co.kr/find/result/view/H0000163446",
+    "captured_at": "2026-02-22T16:59:37.486Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/174_부산_174번_여성의원.png",
+    "processed_at": "2026-02-24T07:27:20.812Z"
+  },
+  {
+    "id": 175,
+    "name": "인천 175번 여성의원",
+    "official_url": "https://www.yeoshin.co.kr/hospitals/92504",
+    "captured_at": "2026-02-22T16:59:39.711Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/175_인천_175번_여성의원.png",
+    "processed_at": "2026-02-24T07:27:24.484Z"
+  },
+  {
+    "id": 176,
+    "name": "울산 176번 여성의원",
+    "official_url": "http://www.ujeil.com/news/articleView.html?idxno=58581",
+    "captured_at": "2026-02-22T16:59:41.888Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/176_울산_176번_여성의원.png",
+    "processed_at": "2026-02-24T07:27:28.233Z"
+  },
+  {
+    "id": 177,
+    "name": "대구 177번 소아청소년과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3518378&comp_tp_cd=TEL&upjong_cd=861206",
+    "captured_at": "2026-02-22T16:59:44.038Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/177_대구_177번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:27:31.591Z"
+  },
+  {
+    "id": 178,
+    "name": "광주 178번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/240000_10_1.html",
+    "captured_at": "2026-02-22T16:59:46.095Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/178_광주_178번_산부인과.png",
+    "processed_at": "2026-02-24T07:27:35.185Z"
+  },
+  {
+    "id": 179,
+    "name": "대전 179번 산부인과",
+    "official_url": "https://daonna.com/view/507592/",
+    "captured_at": "2026-02-22T16:59:48.171Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/179_대전_179번_산부인과.png",
+    "processed_at": "2026-02-24T07:27:40.081Z"
+  },
+  {
+    "id": 180,
+    "name": "인천 180번 산부인과",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=46484",
+    "captured_at": "2026-02-22T16:59:50.359Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/180_인천_180번_산부인과.png",
+    "processed_at": "2026-02-24T07:27:43.835Z"
+  },
+  {
+    "id": 181,
+    "name": "서울 181번 산부인과",
+    "official_url": "https://hdr.purpleo.co.kr/view/17546",
+    "captured_at": "2026-02-22T16:59:52.633Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/181_서울_181번_산부인과.png",
+    "processed_at": "2026-02-24T07:27:47.126Z"
+  },
+  {
+    "id": 182,
+    "name": "대전 182번 여성의원",
+    "official_url": "https://www.bell-rajue.com/default/",
+    "captured_at": "2026-02-22T16:59:54.813Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/182_대전_182번_여성의원.png",
+    "processed_at": "2026-02-24T07:27:50.313Z"
+  },
+  {
+    "id": 183,
+    "name": "인천 183번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/detail?hospital_id=20454",
+    "captured_at": "2026-02-22T06:25:53.520Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/183_인천_183번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:27:53.514Z"
+  },
+  {
+    "id": 184,
+    "name": "대전 184번 여성의원",
+    "official_url": "https://www.bell-rajue.com/default/",
+    "captured_at": "2026-02-22T16:59:56.978Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/184_대전_184번_여성의원.png",
+    "processed_at": "2026-02-24T07:27:56.694Z"
+  },
+  {
+    "id": 185,
+    "name": "대전 185번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T16:59:59.152Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/185_대전_185번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:28:00.191Z"
+  },
+  {
+    "id": 186,
+    "name": "울산 186번 산부인과",
+    "official_url": "https://news.kbs.co.kr/news/pc/main/main.html",
+    "captured_at": "2026-02-22T17:00:01.321Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/186_울산_186번_산부인과.png",
+    "processed_at": "2026-02-24T07:28:03.435Z"
+  },
+  {
+    "id": 187,
+    "name": "울산 187번 산부인과",
+    "official_url": "https://news.kbs.co.kr/news/pc/main/main.html",
+    "captured_at": "2026-02-22T17:00:03.412Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/187_울산_187번_산부인과.png",
+    "processed_at": "2026-02-24T07:28:07.019Z"
+  },
+  {
+    "id": 188,
+    "name": "대구 188번 산부인과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMiMkMCMkMDAkNDgxMzUxIzIxIyQxIyQ5IyQ3OSQ0NjE0ODEjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T17:00:05.606Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/188_대구_188번_산부인과.png",
+    "processed_at": "2026-02-24T07:28:10.985Z"
+  },
+  {
+    "id": 189,
+    "name": "인천 189번 산부인과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDU4MTI3MSM1MSMkMiMkMCMkMDAkMzgxNzAyIzUxIyQxIyQ1IyQ5OSQzNjEwMDIjODEjJDEjJDIjJDgz",
+    "captured_at": "2026-02-22T17:00:07.811Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/189_인천_189번_산부인과.png",
+    "processed_at": "2026-02-24T07:28:14.806Z"
+  },
+  {
+    "id": 190,
+    "name": "경기 190번 소아청소년과",
+    "official_url": "https://www.medical.or.kr/icheon/contentsInfo.do?menu_no=1720&cts_no=1020&menu_gb=ICHEON",
+    "captured_at": "2026-02-22T17:00:09.950Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/190_경기_190번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:28:18.314Z"
+  },
+  {
+    "id": 191,
+    "name": "대구 191번 여성의원",
+    "official_url": "https://www.idaegu.com/news/articleView.html?idxno=395886",
+    "captured_at": "2026-02-22T17:00:12.138Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/191_대구_191번_여성의원.png",
+    "processed_at": "2026-02-24T07:28:22.004Z"
+  },
+  {
+    "id": 192,
+    "name": "경기 192번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3751373&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-22T17:00:14.354Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/192_경기_192번_여성의원.png",
+    "processed_at": "2026-02-24T07:28:25.340Z"
+  },
+  {
+    "id": 193,
+    "name": "광주 193번 소아청소년과",
+    "official_url": "http://www.ajoumedi.com/wp_2ds/02_01_view.html?code=prediatrics",
+    "captured_at": "2026-02-22T17:00:16.464Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/193_광주_193번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:28:29.039Z"
+  },
+  {
+    "id": 194,
+    "name": "대전 194번 여성의원",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM2MSMkMiMkMiMkMDAkMzgxMTkxIzExIyQxIyQ3IyQ5OSQyNjE0ODEjODEjJDEjJDYjJDgz",
+    "captured_at": "2026-02-22T17:00:18.621Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/194_대전_194번_여성의원.png",
+    "processed_at": "2026-02-24T07:28:33.625Z"
+  },
+  {
+    "id": 195,
+    "name": "서울 195번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/94267?addressCode=1168010100",
+    "captured_at": "2026-02-22T06:26:14.102Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/195_서울_195번_여성의원.png",
+    "processed_at": "2026-02-24T07:28:36.968Z"
+  },
+  {
+    "id": 196,
+    "name": "부산 196번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/210000_11_11.html",
+    "captured_at": "2026-02-22T17:00:20.782Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/196_부산_196번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:28:41.389Z"
+  },
+  {
+    "id": 197,
+    "name": "부산 197번 산부인과",
+    "official_url": "https://www.easysearch.kr/hospital-a1201901/",
+    "captured_at": "2026-02-22T17:00:22.917Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/197_부산_197번_산부인과.png",
+    "processed_at": "2026-02-24T07:28:45.767Z"
+  },
+  {
+    "id": 198,
+    "name": "부산 198번 산부인과",
+    "official_url": "http://localmap.co.kr/web/splus/kmap/view.php?sigun=6260000&gugun=3350000&keyno=209&keyname=%EC%9A%B0%EB%A6%AC%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T17:00:25.052Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/198_부산_198번_산부인과.png",
+    "processed_at": "2026-02-24T07:28:49.885Z"
+  },
+  {
+    "id": 199,
+    "name": "인천 199번 산부인과",
+    "official_url": "https://www.onnurihosp.com/page/guide_visit.php",
+    "captured_at": "2026-02-22T17:00:27.200Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/199_인천_199번_산부인과.png",
+    "processed_at": "2026-02-24T07:28:53.777Z"
+  },
+  {
+    "id": 200,
+    "name": "광주 200번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/240000_11_7.html",
+    "captured_at": "2026-02-22T17:00:29.322Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/200_광주_200번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:28:59.031Z"
+  },
+  {
+    "id": 201,
+    "name": "대구 201번 산부인과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMiMkMCMkMDAkMzgxOTYxIzMxIyQxIyQ3IyQ2MiQzNjEwMDIjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T17:00:31.507Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/201_대구_201번_산부인과.png",
+    "processed_at": "2026-02-24T07:29:02.933Z"
+  },
+  {
+    "id": 202,
+    "name": "서울 202번 산부인과",
+    "official_url": "https://ddocdoc.com/hospital/57171f13e207df2709f1cc91",
+    "captured_at": "2026-02-22T17:00:33.648Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/202_서울_202번_산부인과.png",
+    "processed_at": "2026-02-24T07:29:06.220Z"
+  },
+  {
+    "id": 203,
+    "name": "울산 203번 여성의원",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMiMkNCMkMDAkMzgxNzAyIzExIyQxIyQzIyQ4MiQyNjE0ODEjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T17:00:35.796Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/203_울산_203번_여성의원.png",
+    "processed_at": "2026-02-24T07:29:10.180Z"
+  },
+  {
+    "id": 204,
+    "name": "대전 204번 여성의원",
+    "official_url": "https://www.bell-rajue.com/default/",
+    "captured_at": "2026-02-22T17:00:38.002Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/204_대전_204번_여성의원.png",
+    "processed_at": "2026-02-24T07:29:13.383Z"
+  },
+  {
+    "id": 205,
+    "name": "광주 205번 소아청소년과",
+    "official_url": "https://ddocdoc.com/hospital/57171f12e207df2709f161e4",
+    "captured_at": "2026-02-22T17:00:40.147Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/205_광주_205번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:29:16.604Z"
+  },
+  {
+    "id": 206,
+    "name": "대전 206번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T06:26:32.934Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/206_대전_206번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:29:20.197Z"
+  },
+  {
+    "id": 207,
+    "name": "경기 207번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3751373&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-22T17:00:42.375Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/207_경기_207번_여성의원.png",
+    "processed_at": "2026-02-24T07:29:23.444Z"
+  },
+  {
+    "id": 208,
+    "name": "광주 208번 여성의원",
+    "official_url": "https://place.udanax.org/place.php?placeName=%EA%B7%B8%EB%A6%B0%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90&id=556383",
+    "captured_at": "2026-02-22T06:26:36.877Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/208_광주_208번_여성의원.png",
+    "processed_at": "2026-02-24T07:29:26.952Z"
+  },
+  {
+    "id": 219,
+    "name": "부산 219번 산부인과",
+    "official_url": "https://cashdoc.me/hospital/A1206596/%EC%95%A0%ED%94%8C%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90%EB%B6%80%EC%82%B0%EC%84%9C%EB%A9%B4",
+    "captured_at": "2026-02-22T06:26:55.679Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/219_부산_219번_산부인과.png",
+    "processed_at": "2026-02-24T07:29:32.248Z"
+  },
+  {
+    "id": 241,
+    "name": "부산 241번 산부인과",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=66036",
+    "captured_at": "2026-02-22T06:27:32.628Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/241_부산_241번_산부인과.png",
+    "processed_at": "2026-02-24T07:29:36.210Z"
+  },
+  {
+    "id": 282,
+    "name": "광주 282번 여성의원",
+    "official_url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001720599",
+    "captured_at": "2026-02-22T16:57:02.692Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/282_광주_282번_여성의원.png",
+    "processed_at": "2026-02-24T07:29:41.155Z"
+  },
+  {
+    "id": 283,
+    "name": "울산 283번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EC%9A%B8%EC%82%B0",
+    "captured_at": "2026-02-22T16:57:04.844Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/283_울산_283번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:29:44.635Z"
+  },
+  {
+    "id": 284,
+    "name": "울산 284번 여성의원",
+    "official_url": "https://ddocdoc.com/hospital/57171f12e207df2709f188bd",
+    "captured_at": "2026-02-22T16:57:07.087Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/284_울산_284번_여성의원.png",
+    "processed_at": "2026-02-24T07:29:47.844Z"
+  },
+  {
+    "id": 285,
+    "name": "대구 285번 소아청소년과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3546582&comp_tp_cd=TEL&upjong_cd=861206",
+    "captured_at": "2026-02-22T16:57:09.248Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/285_대구_285번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:29:51.070Z"
+  },
+  {
+    "id": 286,
+    "name": "광주 286번 소아청소년과",
+    "official_url": "http://www.ajoumedi.com/wp_2ds/02_01_view.html?code=prediatrics",
+    "captured_at": "2026-02-22T16:57:11.361Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/286_광주_286번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:29:55.003Z"
+  },
+  {
+    "id": 287,
+    "name": "대전 287번 여성의원",
+    "official_url": "https://doctornow.co.kr/hospitals/7EE3EC",
+    "captured_at": "2026-02-22T16:57:13.530Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/287_대전_287번_여성의원.png",
+    "processed_at": "2026-02-24T07:29:58.947Z"
+  },
+  {
+    "id": 288,
+    "name": "대구 288번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T16:57:15.734Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/288_대구_288번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:30:03.905Z"
+  },
+  {
+    "id": 289,
+    "name": "경기 289번 산부인과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=426808&comp_tp_cd=INT&upjong_cd=861205",
+    "captured_at": "2026-02-22T16:57:17.928Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/289_경기_289번_산부인과.png",
+    "processed_at": "2026-02-24T07:30:07.106Z"
+  },
+  {
+    "id": 290,
+    "name": "인천 290번 산부인과",
+    "official_url": "https://www.goich.co.kr/medical_information.html?md_id=11",
+    "captured_at": "2026-02-22T16:57:20.080Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/290_인천_290번_산부인과.png",
+    "processed_at": "2026-02-24T07:30:10.780Z"
+  },
+  {
+    "id": 291,
+    "name": "경기 291번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/310000_10_8.html",
+    "captured_at": "2026-02-22T06:28:55.679Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/291_경기_291번_산부인과.png",
+    "processed_at": "2026-02-24T07:30:15.837Z"
+  },
+  {
+    "id": 292,
+    "name": "대구 292번 산부인과",
+    "official_url": "https://ayo.pe.kr/localMaps/detail/3553896",
+    "captured_at": "2026-02-22T16:57:22.209Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/292_대구_292번_산부인과.png",
+    "processed_at": "2026-02-24T07:30:19.961Z"
+  },
+  {
+    "id": 293,
+    "name": "부산 293번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/210000_10_14.html",
+    "captured_at": "2026-02-22T16:57:24.446Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/293_부산_293번_산부인과.png",
+    "processed_at": "2026-02-24T07:30:23.809Z"
+  },
+  {
+    "id": 294,
+    "name": "서울 294번 산부인과",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=57376",
+    "captured_at": "2026-02-22T16:57:26.513Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/294_서울_294번_산부인과.png",
+    "processed_at": "2026-02-24T07:30:27.573Z"
+  },
+  {
+    "id": 295,
+    "name": "인천 295번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/220000_220007_11_1.html",
+    "captured_at": "2026-02-22T16:57:28.690Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/295_인천_295번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:30:31.694Z"
+  },
+  {
+    "id": 296,
+    "name": "경기 296번 산부인과",
+    "official_url": "https://findby.co.kr/search?q=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%8F%99%EB%91%90%EC%B2%9C%EC%8B%9C%20%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC&rq=2",
+    "captured_at": "2026-02-22T16:57:30.750Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/296_경기_296번_산부인과.png",
+    "processed_at": "2026-02-24T07:30:35.191Z"
+  },
+  {
+    "id": 297,
+    "name": "부산 297번 여성의원",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTAxMiM1MSMkMiMkMCMkMDAkMzgxOTYxIzIxIyQxIyQ1IyQ5MiQzNjEwMDIjNDEjJDEjJDQjJDgz",
+    "captured_at": "2026-02-22T16:57:32.976Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/297_부산_297번_여성의원.png",
+    "processed_at": "2026-02-24T07:30:38.971Z"
+  },
+  {
+    "id": 298,
+    "name": "울산 298번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EC%9A%B8%EC%82%B0",
+    "captured_at": "2026-02-22T16:57:35.132Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/298_울산_298번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:30:42.199Z"
+  },
+  {
+    "id": 299,
+    "name": "대구 299번 산부인과",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=75433",
+    "captured_at": "2026-02-22T16:57:37.349Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/299_대구_299번_산부인과.png",
+    "processed_at": "2026-02-24T07:30:45.677Z"
+  },
+  {
+    "id": 300,
+    "name": "부산 300번 여성의원",
+    "official_url": "http://m.urinews.co.kr/42538",
+    "captured_at": "2026-02-22T16:57:39.574Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/300_부산_300번_여성의원.png",
+    "processed_at": "2026-02-24T07:30:49.311Z"
+  },
+  {
+    "id": 301,
+    "name": "부산 301번 여성의원",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTAxMiM1MSMkMiMkMCMkMDAkNDgxOTYxIzMxIyQxIyQ3IyQxMyQ0NjE0ODEjNDEjJDEjJDQjJDgz",
+    "captured_at": "2026-02-22T16:57:41.770Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/301_부산_301번_여성의원.png",
+    "processed_at": "2026-02-24T07:30:53.393Z"
+  },
+  {
+    "id": 302,
+    "name": "서울 302번 산부인과",
+    "official_url": "http://www.wombtunes.org/about/about_020100.html",
+    "captured_at": "2026-02-22T16:57:43.927Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/302_서울_302번_산부인과.png",
+    "processed_at": "2026-02-24T07:30:57.966Z"
+  },
+  {
+    "id": 303,
+    "name": "광주 303번 소아청소년과",
+    "official_url": "https://occupationalhealthblog.net/hospitalspecific/JDQ4MTYyMiM3MSMkMiMkMCMkMDAkNDgxMzUxIzExIyQyIyQzIyQwMCQzNjE0ODEjNDEjJDEjJDgjJDgz/",
+    "captured_at": "2026-02-22T16:57:46.074Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/303_광주_303번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:31:01.281Z"
+  },
+  {
+    "id": 304,
+    "name": "부산 304번 산부인과",
+    "official_url": "https://hsl.purpleo.co.kr/view/884",
+    "captured_at": "2026-02-22T16:57:48.238Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/304_부산_304번_산부인과.png",
+    "processed_at": "2026-02-24T07:31:04.701Z"
+  },
+  {
+    "id": 305,
+    "name": "경기 305번 소아청소년과",
+    "official_url": "https://ddocdoc.com/hospital/5c775e6759af76001023badd",
+    "captured_at": "2026-02-22T16:57:50.403Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/305_경기_305번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:31:08.113Z"
+  },
+  {
+    "id": 306,
+    "name": "광주 306번 소아청소년과",
+    "official_url": "https://www.gwangjucentralhospital.co.kr/pediatrics/immunization.html",
+    "captured_at": "2026-02-22T16:57:52.736Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/306_광주_306번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:31:15.476Z"
+  },
+  {
+    "id": 307,
+    "name": "경기 307번 소아청소년과",
+    "official_url": "https://www.goodoc.co.kr/hospitals/75053?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:54.902Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/307_경기_307번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:31:18.848Z"
+  },
+  {
+    "id": 308,
+    "name": "서울 308번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/2475?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:57.104Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/308_서울_308번_여성의원.png",
+    "processed_at": "2026-02-24T07:31:22.217Z"
+  },
+  {
+    "id": 309,
+    "name": "부산 309번 소아청소년과",
+    "official_url": "https://www.youtube.com/channel/UCAzPaJvtCXHW3f7AkZXOgkA",
+    "captured_at": "2026-02-22T16:57:59.302Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/309_부산_309번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:31:26.670Z"
+  },
+  {
+    "id": 310,
+    "name": "부산 310번 소아청소년과",
+    "official_url": "https://cashdoc.me/hospital/A1202122/%EC%A0%95%ED%98%9C%EA%B2%BD%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:58:01.464Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/310_부산_310번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:31:30.136Z"
+  },
+  {
+    "id": 311,
+    "name": "광주 311번 소아청소년과",
+    "official_url": "https://daonna.com/view/483035/",
+    "captured_at": "2026-02-22T16:58:03.617Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/311_광주_311번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:31:35.050Z"
+  },
+  {
+    "id": 312,
+    "name": "경기 312번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/34867?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:58:05.852Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/312_경기_312번_여성의원.png",
+    "processed_at": "2026-02-24T07:31:38.236Z"
+  },
+  {
+    "id": 313,
+    "name": "서울 313번 소아청소년과",
+    "official_url": "https://news.seoul.go.kr/welfare/archives/557457",
+    "captured_at": "2026-02-22T16:58:08.038Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/313_서울_313번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:31:42.147Z"
+  },
+  {
+    "id": 314,
+    "name": "대구 314번 산부인과",
+    "official_url": "https://www.goodoc.co.kr/hospitals/10944?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:58:10.115Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/314_대구_314번_산부인과.png",
+    "processed_at": "2026-02-24T07:31:45.976Z"
+  },
+  {
+    "id": 315,
+    "name": "부산 315번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/210000_10_4.html",
+    "captured_at": "2026-02-22T16:58:12.259Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/315_부산_315번_산부인과.png",
+    "processed_at": "2026-02-24T07:31:49.970Z"
+  },
+  {
+    "id": 316,
+    "name": "대전 316번 여성의원",
+    "official_url": "https://doctornow.co.kr/hospitals/7EE3EC",
+    "captured_at": "2026-02-22T16:58:14.438Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/316_대전_316번_여성의원.png",
+    "processed_at": "2026-02-24T07:31:53.760Z"
+  },
+  {
+    "id": 317,
+    "name": "서울 317번 소아청소년과",
+    "official_url": "https://march14th.net/100135810",
+    "captured_at": "2026-02-22T16:58:16.691Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/317_서울_317번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:31:57.564Z"
+  },
+  {
+    "id": 318,
+    "name": "경기 318번 산부인과",
+    "official_url": "https://tamanu.nomadguide.kr/gyeonggi/%EC%84%9D%EC%88%98%EB%8F%99-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%B6%94%EC%B2%9C-25%EA%B3%B3-%EC%9C%84%EC%B9%98-%EC%A0%95%EB%B3%B4/",
+    "captured_at": "2026-02-22T16:58:18.798Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/318_경기_318번_산부인과.png",
+    "processed_at": "2026-02-24T07:32:00.860Z"
+  },
+  {
+    "id": 319,
+    "name": "대전 319번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T16:58:20.982Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/319_대전_319번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:32:04.665Z"
+  },
+  {
+    "id": 320,
+    "name": "부산 320번 소아청소년과",
+    "official_url": "https://cashdoc.me/hospital/A1202122/%EC%A0%95%ED%98%9C%EA%B2%BD%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:58:23.140Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/320_부산_320번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:32:07.886Z"
+  },
+  {
+    "id": 321,
+    "name": "서울 321번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/70843?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:58:25.430Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/321_서울_321번_여성의원.png",
+    "processed_at": "2026-02-24T07:32:11.195Z"
+  },
+  {
+    "id": 322,
+    "name": "광주 322번 여성의원",
+    "official_url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001720599",
+    "captured_at": "2026-02-22T16:58:27.593Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/322_광주_322번_여성의원.png",
+    "processed_at": "2026-02-24T07:32:15.155Z"
+  },
+  {
+    "id": 323,
+    "name": "경기 323번 산부인과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDU4MTI3MSM1MSMkMiMkMCMkMDAkNTgxMzUxIzUxIyQxIyQxIyQ5MiQyNjE0ODEjNjEjJDEjJDAjJDgz",
+    "captured_at": "2026-02-22T16:58:29.627Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/323_경기_323번_산부인과.png",
+    "processed_at": "2026-02-24T07:32:19.094Z"
+  },
+  {
+    "id": 324,
+    "name": "서울 324번 산부인과",
+    "official_url": "https://gun.roen.kr/",
+    "captured_at": "2026-02-22T16:58:31.771Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/324_서울_324번_산부인과.png",
+    "processed_at": "2026-02-24T07:32:22.458Z"
+  },
+  {
+    "id": 325,
+    "name": "대전 325번 산부인과",
+    "official_url": "https://climate.carsend.kr/daejeon/%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%B6%94%EC%B2%9C-14%EA%B3%B3-%EB%8C%80%EB%8D%95%EA%B5%AC-%EC%8B%A0%EB%8C%80%EB%8F%99/",
+    "captured_at": "2026-02-22T16:58:33.863Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/325_대전_325번_산부인과.png",
+    "processed_at": "2026-02-24T07:32:25.715Z"
+  },
+  {
+    "id": 326,
+    "name": "광주 326번 여성의원",
+    "official_url": "https://www.fnnews.com/news/202407081421020323",
+    "captured_at": "2026-02-22T16:58:36.047Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/326_광주_326번_여성의원.png",
+    "processed_at": "2026-02-24T07:32:30.152Z"
+  },
+  {
+    "id": 327,
+    "name": "서울 327번 산부인과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTg4MSM1MSMkMiMkOCMkMDAkMzgxMzUxIzMxIyQxIyQzIyQwMyQzNjE0ODEjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T16:58:38.250Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/327_서울_327번_산부인과.png",
+    "processed_at": "2026-02-24T07:32:34.033Z"
+  },
+  {
+    "id": 328,
+    "name": "대구 328번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T16:58:40.428Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/328_대구_328번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:32:38.522Z"
+  },
+  {
+    "id": 329,
+    "name": "울산 329번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EC%9A%B8%EC%82%B0",
+    "captured_at": "2026-02-22T16:58:42.580Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/329_울산_329번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:32:41.975Z"
+  },
+  {
+    "id": 330,
+    "name": "대구 330번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCF9vbHlZpz7FbOAky3fnYxw",
+    "captured_at": "2026-02-22T16:58:44.679Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/330_대구_330번_산부인과.png",
+    "processed_at": "2026-02-24T07:32:46.251Z"
+  },
+  {
+    "id": 331,
+    "name": "울산 331번 산부인과",
+    "official_url": "http://localmap.co.kr/web/splus/kmap/view.php?sigun=6310000&gugun=3700000&keyno=209&keyname=%EB%A3%A8%EB%82%98%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:58:46.732Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/331_울산_331번_산부인과.png",
+    "processed_at": "2026-02-24T07:32:50.477Z"
+  },
+  {
+    "id": 332,
+    "name": "부산 332번 소아청소년과",
+    "official_url": "https://march14th.net/100094589",
+    "captured_at": "2026-02-22T16:58:48.905Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/332_부산_332번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:32:53.693Z"
+  },
+  {
+    "id": 333,
+    "name": "서울 333번 여성의원",
+    "official_url": "https://www.rachelivf.com/",
+    "captured_at": "2026-02-22T16:58:51.064Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/333_서울_333번_여성의원.png",
+    "processed_at": "2026-02-24T07:32:57.326Z"
+  },
+  {
+    "id": 334,
+    "name": "광주 334번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3389344&comp_tp_cd=TEL&upjong_cd=861229",
+    "captured_at": "2026-02-22T16:58:53.265Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/334_광주_334번_여성의원.png",
+    "processed_at": "2026-02-24T07:33:00.655Z"
+  },
+  {
+    "id": 335,
+    "name": "서울 335번 산부인과",
+    "official_url": "https://medicine.medilocator.co.kr/%EC%84%9C%EC%9A%B8-%EB%A7%88%ED%8F%AC%EA%B5%AC-%EC%9D%BC%EC%9A%94%EC%9D%BC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%A7%84%EB%A3%8C-%EB%B3%91%EC%9B%90",
+    "captured_at": "2026-02-22T06:30:08.899Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/335_서울_335번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:04.175Z"
+  },
+  {
+    "id": 336,
+    "name": "인천 336번 산부인과",
+    "official_url": "https://www.webify.kr/%EC%9D%98%EC%9B%90/%EC%9D%B8%EC%B2%9C/%EC%84%9C/%EA%B9%80%EC%8A%B9%EC%97%B0%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:58:55.391Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/336_인천_336번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:08.225Z"
+  },
+  {
+    "id": 337,
+    "name": "경기 337번 산부인과",
+    "official_url": "https://momshospital.com/place/337",
+    "captured_at": "2026-02-22T16:58:57.444Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/337_경기_337번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:11.869Z"
+  },
+  {
+    "id": 338,
+    "name": "대구 338번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCF9vbHlZpz7FbOAky3fnYxw",
+    "captured_at": "2026-02-22T16:58:59.510Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/338_대구_338번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:15.962Z"
+  },
+  {
+    "id": 339,
+    "name": "대전 339번 산부인과",
+    "official_url": "https://pann.nate.com/talk/374648767",
+    "captured_at": "2026-02-22T16:59:01.573Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/339_대전_339번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:19.878Z"
+  },
+  {
+    "id": 340,
+    "name": "서울 340번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T16:59:03.781Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/340_서울_340번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:33:24.802Z"
+  },
+  {
+    "id": 341,
+    "name": "대구 341번 산부인과",
+    "official_url": "https://pervsi.com/info/board.php?board=hospital&command=body&no=24833",
+    "captured_at": "2026-02-22T16:59:05.801Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/341_대구_341번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:28.301Z"
+  },
+  {
+    "id": 342,
+    "name": "인천 342번 산부인과",
+    "official_url": "https://zippoom.com/%EB%B6%80%EB%8F%99%EC%82%B0/%EC%9D%B8%EC%B2%9C-%EB%82%A8%EB%8F%99%EA%B5%AC-%EA%B5%AC%EC%9B%94%EB%8F%99-%EB%8B%A4%EC%A0%95%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC/gb6yn3",
+    "captured_at": "2026-02-22T16:59:07.986Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/342_인천_342번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:32.063Z"
+  },
+  {
+    "id": 343,
+    "name": "대구 343번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T16:59:10.129Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/343_대구_343번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:33:36.341Z"
+  },
+  {
+    "id": 344,
+    "name": "대구 344번 산부인과",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=54448",
+    "captured_at": "2026-02-22T16:59:12.238Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/344_대구_344번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:40.112Z"
+  },
+  {
+    "id": 345,
+    "name": "대전 345번 산부인과",
+    "official_url": "https://carav.niconico.kr/daejeon/%EB%8C%80%EC%A0%84-%ED%8C%90%EC%95%94%EB%8F%99%EC%97%90%EC%84%9C-%EC%B0%BE%EC%9D%80-20%EA%B0%9C-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC/",
+    "captured_at": "2026-02-22T16:59:14.308Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/345_대전_345번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:43.447Z"
+  },
+  {
+    "id": 346,
+    "name": "서울 346번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T16:59:16.510Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/346_서울_346번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:33:47.585Z"
+  },
+  {
+    "id": 347,
+    "name": "대구 347번 여성의원",
+    "official_url": "https://www.idaegu.com/news/articleView.html?idxno=395886",
+    "captured_at": "2026-02-22T16:59:18.713Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/347_대구_347번_여성의원.png",
+    "processed_at": "2026-02-24T07:33:51.537Z"
+  },
+  {
+    "id": 348,
+    "name": "부산 348번 산부인과",
+    "official_url": "https://benefit.localclean.kr/busan/%EB%B6%80%EC%82%B0-%EB%8F%99%EA%B5%AC-%EC%B4%88%EB%9F%89%EB%8F%99-%EC%9D%B8%EA%B7%BC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%A0%84%EB%AC%B8-%EC%97%85%EC%B2%B4-24%EA%B3%B3/",
+    "captured_at": "2026-02-22T16:59:20.858Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/348_부산_348번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:54.788Z"
+  },
+  {
+    "id": 349,
+    "name": "서울 349번 산부인과",
+    "official_url": "http://oldpc.co.kr/bbs/search.php?sfl=wr_subject||wr_content&sop=and&stx=%EC%84%9C%EC%9A%B8+%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC+%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:59:22.932Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/349_서울_349번_산부인과.png",
+    "processed_at": "2026-02-24T07:33:59.359Z"
+  },
+  {
+    "id": 350,
+    "name": "경기 350번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EA%B2%BD%EA%B8%B0",
+    "captured_at": "2026-02-22T16:59:25.121Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/350_경기_350번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:34:02.641Z"
+  },
+  {
+    "id": 351,
+    "name": "서울 351번 여성의원",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=49878",
+    "captured_at": "2026-02-22T16:59:27.323Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/351_서울_351번_여성의원.png",
+    "processed_at": "2026-02-24T07:34:06.392Z"
+  },
+  {
+    "id": 352,
+    "name": "부산 352번 산부인과",
+    "official_url": "https://health3.korea724.info/en/%ED%95%9C%ED%9D%AC%EC%A7%84%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90-82-51-753-9956.html",
+    "captured_at": "2026-02-22T06:30:37.521Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/352_부산_352번_산부인과.png",
+    "processed_at": "2026-02-24T07:34:12.072Z"
+  },
+  {
+    "id": 353,
+    "name": "대구 353번 여성의원",
+    "official_url": "https://www.idaegu.com/news/articleView.html?idxno=395886",
+    "captured_at": "2026-02-22T16:59:29.496Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/353_대구_353번_여성의원.png",
+    "processed_at": "2026-02-24T07:34:15.275Z"
+  },
+  {
+    "id": 354,
+    "name": "서울 354번 여성의원",
+    "official_url": "https://www.hidoc.co.kr/find/result/view/H0000232863",
+    "captured_at": "2026-02-22T16:59:31.710Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/354_서울_354번_여성의원.png",
+    "processed_at": "2026-02-24T07:34:19.247Z"
+  },
+  {
+    "id": 355,
+    "name": "광주 355번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCBfQfFkKkMCYjJ4aj0FqI8A",
+    "captured_at": "2026-02-22T16:59:33.750Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/355_광주_355번_산부인과.png",
+    "processed_at": "2026-02-24T07:34:23.286Z"
+  },
+  {
+    "id": 356,
+    "name": "대구 356번 산부인과",
+    "official_url": "https://www.hidoc.co.kr/find/doctor/healthqna/U0000031515",
+    "captured_at": "2026-02-22T16:59:35.834Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/356_대구_356번_산부인과.png",
+    "processed_at": "2026-02-24T07:34:26.650Z"
+  },
+  {
+    "id": 357,
+    "name": "대전 357번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T16:59:38.004Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/357_대전_357번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:34:30.165Z"
+  },
+  {
+    "id": 358,
+    "name": "서울 358번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T16:59:40.214Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/358_서울_358번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:34:34.287Z"
+  },
+  {
+    "id": 359,
+    "name": "서울 359번 여성의원",
+    "official_url": "http://www.mizwomen.com/",
+    "captured_at": "2026-02-22T16:59:42.414Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/359_서울_359번_여성의원.png",
+    "processed_at": "2026-02-24T07:34:37.861Z"
+  },
+  {
+    "id": 360,
+    "name": "울산 360번 여성의원",
+    "official_url": "http://medicalmap.co.kr/web/desk/dmap/view.php?HCODE=M31&sigun=6310000&gugun=3700000&bizid=JDQ4MTYyMiM4MSMkMiMkNCMkMDAkMzgxNzAyIzExIyQxIyQzIyQ4MiQyNjE0ODEjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T16:59:44.574Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/360_울산_360번_여성의원.png",
+    "processed_at": "2026-02-24T07:34:41.755Z"
+  },
+  {
+    "id": 361,
+    "name": "부산 361번 소아청소년과",
+    "official_url": "https://www.youtube.com/channel/UCAzPaJvtCXHW3f7AkZXOgkA",
+    "captured_at": "2026-02-22T16:59:46.732Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/361_부산_361번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:34:45.560Z"
+  },
+  {
+    "id": 362,
+    "name": "인천 362번 소아청소년과",
+    "official_url": "http://www.ima.or.kr/bbs/hospital_view.php?mb_no=3968",
+    "captured_at": "2026-02-22T16:59:48.887Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/362_인천_362번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:34:49.035Z"
+  },
+  {
+    "id": 363,
+    "name": "경기 363번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/detail?hospital_id=11065",
+    "captured_at": "2026-02-22T16:59:51.032Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/363_경기_363번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:34:52.653Z"
+  },
+  {
+    "id": 364,
+    "name": "경기 364번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3751373&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-22T16:59:53.226Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/364_경기_364번_여성의원.png",
+    "processed_at": "2026-02-24T07:34:57.030Z"
+  },
+  {
+    "id": 365,
+    "name": "부산 365번 소아청소년과",
+    "official_url": "https://dabom365.com/clinic/2",
+    "captured_at": "2026-02-22T16:59:55.367Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/365_부산_365번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:35:00.906Z"
+  },
+  {
+    "id": 366,
+    "name": "경기 366번 소아청소년과",
+    "official_url": "https://www.hospdatainfo.com/hosp_main/hosp_view?hosp_id=A2103785",
+    "captured_at": "2026-02-22T16:59:57.514Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/366_경기_366번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:35:04.554Z"
+  },
+  {
+    "id": 367,
+    "name": "대전 367번 산부인과",
+    "official_url": "https://crossover.localclean.kr/daejeon/%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-top-8%EA%B3%B3-%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C-%EB%8C%80%EB%8D%95%EA%B5%AC-%EC%99%80%EB%8F%99/",
+    "captured_at": "2026-02-22T06:31:02.939Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/367_대전_367번_산부인과.png",
+    "processed_at": "2026-02-24T07:35:07.821Z"
+  },
+  {
+    "id": 368,
+    "name": "경기 368번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EA%B2%BD%EA%B8%B0",
+    "captured_at": "2026-02-22T16:59:59.696Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/368_경기_368번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:35:11.054Z"
+  },
+  {
+    "id": 369,
+    "name": "경기 369번 여성의원",
+    "official_url": "https://cashdoc.me/hospital/A2114015/%ED%94%8C%EB%A1%9C%EB%9D%BC%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T17:00:01.903Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/369_경기_369번_여성의원.png",
+    "processed_at": "2026-02-24T07:35:14.871Z"
+  },
+  {
+    "id": 370,
+    "name": "대구 370번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCF9vbHlZpz7FbOAky3fnYxw",
+    "captured_at": "2026-02-22T17:00:03.931Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/370_대구_370번_산부인과.png",
+    "processed_at": "2026-02-24T07:35:19.181Z"
+  },
+  {
+    "id": 371,
+    "name": "대전 371번 여성의원",
+    "official_url": "https://www.bell-rajue.com/default/",
+    "captured_at": "2026-02-22T17:00:06.139Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/371_대전_371번_여성의원.png",
+    "processed_at": "2026-02-24T07:35:22.697Z"
+  },
+  {
+    "id": 372,
+    "name": "경기 372번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/310000_310402_10_1.html",
+    "captured_at": "2026-02-22T17:00:08.153Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/372_경기_372번_산부인과.png",
+    "processed_at": "2026-02-24T07:35:27.160Z"
+  },
+  {
+    "id": 373,
+    "name": "광주 373번 여성의원",
+    "official_url": "https://www.womennews.co.kr/news/articleView.html?idxno=264345",
+    "captured_at": "2026-02-22T17:00:10.324Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/373_광주_373번_여성의원.png",
+    "processed_at": "2026-02-24T07:35:31.533Z"
+  },
+  {
+    "id": 374,
+    "name": "대구 374번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T17:00:12.489Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/374_대구_374번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:35:36.093Z"
+  },
+  {
+    "id": 375,
+    "name": "인천 375번 소아청소년과",
+    "official_url": "https://www.seo.incheon.kr/open_content/dong/locinfo/medical.do?act=detail&loc_seq=30483",
+    "captured_at": "2026-02-22T17:00:14.681Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/375_인천_375번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:35:40.024Z"
+  },
+  {
+    "id": 376,
+    "name": "대구 376번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T17:00:16.836Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/376_대구_376번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:35:44.442Z"
+  },
+  {
+    "id": 377,
+    "name": "대구 377번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCF9vbHlZpz7FbOAky3fnYxw",
+    "captured_at": "2026-02-22T17:00:18.911Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/377_대구_377번_산부인과.png",
+    "processed_at": "2026-02-24T07:35:48.514Z"
+  },
+  {
+    "id": 378,
+    "name": "부산 378번 소아청소년과",
+    "official_url": "https://www.youtube.com/channel/UCAzPaJvtCXHW3f7AkZXOgkA",
+    "captured_at": "2026-02-22T17:00:21.048Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/378_부산_378번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:35:52.397Z"
+  },
+  {
+    "id": 379,
+    "name": "부산 379번 여성의원",
+    "official_url": "https://aileenwomanclinic.com/aileen/space",
+    "captured_at": "2026-02-22T17:00:23.273Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/379_부산_379번_여성의원.png",
+    "processed_at": "2026-02-24T07:35:56.284Z"
+  },
+  {
+    "id": 380,
+    "name": "울산 380번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EC%9A%B8%EC%82%B0",
+    "captured_at": "2026-02-22T17:00:25.426Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/380_울산_380번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:35:59.585Z"
+  },
+  {
+    "id": 381,
+    "name": "경기 381번 소아청소년과",
+    "official_url": "https://cashdoc.me/hospital/A2116097/%ED%95%9C%EB%A7%88%EC%9D%8C%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T17:00:27.628Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/381_경기_381번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:36:04.125Z"
+  },
+  {
+    "id": 382,
+    "name": "서울 382번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/40736?addressCode=1168010100",
+    "captured_at": "2026-02-22T17:00:29.941Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/382_서울_382번_여성의원.png",
+    "processed_at": "2026-02-24T07:36:07.622Z"
+  },
+  {
+    "id": 383,
+    "name": "울산 383번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EC%9A%B8%EC%82%B0",
+    "captured_at": "2026-02-22T17:00:32.086Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/383_울산_383번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:36:10.837Z"
+  },
+  {
+    "id": 384,
+    "name": "인천 384번 여성의원",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=85424",
+    "captured_at": "2026-02-22T17:00:34.276Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/384_인천_384번_여성의원.png",
+    "processed_at": "2026-02-24T07:36:14.241Z"
+  },
+  {
+    "id": 385,
+    "name": "서울 385번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T17:00:36.500Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/385_서울_385번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:36:19.120Z"
+  },
+  {
+    "id": 386,
+    "name": "인천 386번 여성의원",
+    "official_url": "https://kadeora.net/michuholgu/c10211/2",
+    "captured_at": "2026-02-22T17:00:38.663Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/386_인천_386번_여성의원.png",
+    "processed_at": "2026-02-24T07:36:22.591Z"
+  },
+  {
+    "id": 439,
+    "name": "인천 439번 산부인과",
+    "official_url": "https://findby.co.kr/search/%EA%B2%BD%EA%B8%B0%EB%8F%84-%EA%B3%A0%EC%96%91%EC%8B%9C-%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC/%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC",
+    "captured_at": "2026-02-22T06:33:02.391Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/439_인천_439번_산부인과.png",
+    "processed_at": "2026-02-24T07:36:27.415Z"
+  },
+  {
+    "id": 461,
+    "name": "대전 461번 산부인과",
+    "official_url": "https://www.ibabynews.com/news/articleView.html?idxno=47990",
+    "captured_at": "2026-02-22T16:57:02.622Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/461_대전_461번_산부인과.png",
+    "processed_at": "2026-02-24T07:36:33.328Z"
+  },
+  {
+    "id": 462,
+    "name": "서울 462번 산부인과",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=60828",
+    "captured_at": "2026-02-22T16:57:04.842Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/462_서울_462번_산부인과.png",
+    "processed_at": "2026-02-24T07:36:36.926Z"
+  },
+  {
+    "id": 463,
+    "name": "서울 463번 여성의원",
+    "official_url": "https://www.modoodoc.com/hospital/9191/%EC%97%90%EC%9D%B4%EC%B9%98%EC%95%84%EC%9D%B4-%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90-%EC%84%9C%EC%9A%B8%EC%8B%9C-%EA%B0%95%EC%84%9C%EA%B5%AC-%EB%A7%88%EA%B3%A1%EB%8F%99",
+    "captured_at": "2026-02-22T16:57:07.275Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/463_서울_463번_여성의원.png",
+    "processed_at": "2026-02-24T07:36:41.498Z"
+  },
+  {
+    "id": 464,
+    "name": "인천 464번 여성의원",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=75843",
+    "captured_at": "2026-02-22T16:57:09.451Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/464_인천_464번_여성의원.png",
+    "processed_at": "2026-02-24T07:36:46.407Z"
+  },
+  {
+    "id": 465,
+    "name": "인천 465번 소아청소년과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3321375&comp_tp_cd=TEL&upjong_cd=861206",
+    "captured_at": "2026-02-22T16:57:11.598Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/465_인천_465번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:36:49.679Z"
+  },
+  {
+    "id": 466,
+    "name": "울산 466번 여성의원",
+    "official_url": "http://www.cityhospital.co.kr/cityh/info01_21.html",
+    "captured_at": "2026-02-22T16:57:13.763Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/466_울산_466번_여성의원.png",
+    "processed_at": "2026-02-24T07:36:53.292Z"
+  },
+  {
+    "id": 467,
+    "name": "광주 467번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCBfQfFkKkMCYjJ4aj0FqI8A",
+    "captured_at": "2026-02-22T16:57:15.851Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/467_광주_467번_산부인과.png",
+    "processed_at": "2026-02-24T07:36:57.349Z"
+  },
+  {
+    "id": 468,
+    "name": "서울 468번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T16:57:18.086Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/468_서울_468번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:37:01.623Z"
+  },
+  {
+    "id": 469,
+    "name": "울산 469번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EC%9A%B8%EC%82%B0",
+    "captured_at": "2026-02-22T06:33:52.517Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/469_울산_469번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:37:04.804Z"
+  },
+  {
+    "id": 470,
+    "name": "서울 470번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=2682144&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-22T16:57:20.269Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/470_서울_470번_여성의원.png",
+    "processed_at": "2026-02-24T07:37:08.245Z"
+  },
+  {
+    "id": 471,
+    "name": "대구 471번 소아청소년과",
+    "official_url": "https://bootcom.co.kr/3653/",
+    "captured_at": "2026-02-22T16:57:22.400Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/471_대구_471번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:37:12.035Z"
+  },
+  {
+    "id": 472,
+    "name": "대전 472번 여성의원",
+    "official_url": "https://brainchildpartners.blogspot.com/search/label/%EB%8C%80%EC%A0%84%20%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:57:24.683Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/472_대전_472번_여성의원.png",
+    "processed_at": "2026-02-24T07:37:16.026Z"
+  },
+  {
+    "id": 473,
+    "name": "부산 473번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/57003?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:26.936Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/473_부산_473번_여성의원.png",
+    "processed_at": "2026-02-24T07:37:19.367Z"
+  },
+  {
+    "id": 474,
+    "name": "서울 474번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/70843?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:29.125Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/474_서울_474번_여성의원.png",
+    "processed_at": "2026-02-24T07:37:22.594Z"
+  },
+  {
+    "id": 475,
+    "name": "부산 475번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/57003?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:31.330Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/475_부산_475번_여성의원.png",
+    "processed_at": "2026-02-24T07:37:25.919Z"
+  },
+  {
+    "id": 476,
+    "name": "광주 476번 소아청소년과",
+    "official_url": "http://www.ajoumedi.com/wp_2ds/02_01_view.html?code=prediatrics",
+    "captured_at": "2026-02-22T16:57:33.485Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/476_광주_476번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:37:30.007Z"
+  },
+  {
+    "id": 477,
+    "name": "서울 477번 여성의원",
+    "official_url": "https://www.modoodoc.com/hospital/27889/%EC%84%9C%EC%9A%B8%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EB%B3%91%EC%A0%90%EB%8F%99",
+    "captured_at": "2026-02-22T16:57:35.673Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/477_서울_477번_여성의원.png",
+    "processed_at": "2026-02-24T07:37:33.872Z"
+  },
+  {
+    "id": 478,
+    "name": "인천 478번 산부인과",
+    "official_url": "https://www.kitvnews.co.kr/news/article.html?no=820211",
+    "captured_at": "2026-02-22T16:57:37.826Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/478_인천_478번_산부인과.png",
+    "processed_at": "2026-02-24T07:37:37.900Z"
+  },
+  {
+    "id": 479,
+    "name": "서울 479번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/44537?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:40.044Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/479_서울_479번_여성의원.png",
+    "processed_at": "2026-02-24T07:37:41.124Z"
+  },
+  {
+    "id": 480,
+    "name": "부산 480번 소아청소년과",
+    "official_url": "https://www.hira.or.kr/ra/hosp/hospInfoAjax.do?ykiho=JDQ4MTAxMiM1MSMkMSMkMCMkOTkkMzgxMzUxIzIxIyQxIyQ5IyQ4OSQyNjE0ODEjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T16:57:42.230Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/480_부산_480번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:37:45.305Z"
+  },
+  {
+    "id": 481,
+    "name": "서울 481번 산부인과",
+    "official_url": "https://momshospital.com/all",
+    "captured_at": "2026-02-22T16:57:44.337Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/481_서울_481번_산부인과.png",
+    "processed_at": "2026-02-24T07:37:49.069Z"
+  },
+  {
+    "id": 482,
+    "name": "서울 482번 소아청소년과",
+    "official_url": "https://www.youtube.com/channel/UC7Pm38RNyeJO_h-7t02CmpQ",
+    "captured_at": "2026-02-22T16:57:46.549Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/482_서울_482번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:37:53.190Z"
+  },
+  {
+    "id": 483,
+    "name": "대전 483번 산부인과",
+    "official_url": "https://a4.slatstory.com/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C-%EC%9D%BC%EC%9A%94%EC%9D%BC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%A7%84%EB%A3%8C-%EB%B3%91%EC%9B%90%EA%B3%BC-%EC%8B%9C%EA%B0%84%EC%9D%80/",
+    "captured_at": "2026-02-22T16:57:48.565Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/483_대전_483번_산부인과.png",
+    "processed_at": "2026-02-24T07:37:57.159Z"
+  },
+  {
+    "id": 484,
+    "name": "인천 484번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/66819?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:50.756Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/484_인천_484번_여성의원.png",
+    "processed_at": "2026-02-24T07:38:00.484Z"
+  },
+  {
+    "id": 485,
+    "name": "서울 485번 소아청소년과",
+    "official_url": "https://news.seoul.go.kr/welfare/archives/557457",
+    "captured_at": "2026-02-22T16:57:52.949Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/485_서울_485번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:38:04.199Z"
+  },
+  {
+    "id": 486,
+    "name": "경기 486번 산부인과",
+    "official_url": "http://www.carmap.co.kr/web/mplus/nbiz/nview.php?nid=MA0101202410A0092127&NCODE=Q10207&sigun=6410000&gugun=5530000",
+    "captured_at": "2026-02-22T16:57:54.980Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/486_경기_486번_산부인과.png",
+    "processed_at": "2026-02-24T07:38:08.353Z"
+  },
+  {
+    "id": 487,
+    "name": "부산 487번 소아청소년과",
+    "official_url": "https://www.youtube.com/channel/UCAzPaJvtCXHW3f7AkZXOgkA",
+    "captured_at": "2026-02-22T16:57:57.225Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/487_부산_487번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:38:12.164Z"
+  },
+  {
+    "id": 488,
+    "name": "인천 488번 소아청소년과",
+    "official_url": "http://www.ima.or.kr/bbs/hospital_view.php?mb_no=488",
+    "captured_at": "2026-02-22T16:57:59.378Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/488_인천_488번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:38:15.421Z"
+  },
+  {
+    "id": 489,
+    "name": "대전 489번 산부인과",
+    "official_url": "https://ddd.mysaltnews.com/%EB%8C%80%EC%A0%84-%EC%84%9C%EA%B5%AC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%B6%94%EC%B2%9C-%EB%AA%A9%EB%A1%9D-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%B3%91%EC%9B%90-10%EA%B3%B3%EC%9D%80/",
+    "captured_at": "2026-02-22T16:58:01.436Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/489_대전_489번_산부인과.png",
+    "processed_at": "2026-02-24T07:38:20.756Z"
+  },
+  {
+    "id": 490,
+    "name": "울산 490번 산부인과",
+    "official_url": "https://news.kbs.co.kr/news/pc/main/main.html",
+    "captured_at": "2026-02-22T16:58:03.474Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/490_울산_490번_산부인과.png",
+    "processed_at": "2026-02-24T07:38:24.086Z"
+  },
+  {
+    "id": 491,
+    "name": "대구 491번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T16:58:05.642Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/491_대구_491번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:38:29.826Z"
+  },
+  {
+    "id": 492,
+    "name": "경기 492번 소아청소년과",
+    "official_url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=S017&number=65927",
+    "captured_at": "2026-02-22T16:58:07.809Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/492_경기_492번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:38:33.698Z"
+  },
+  {
+    "id": 493,
+    "name": "울산 493번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3964428&comp_tp_cd=TEL&upjong_cd=861229",
+    "captured_at": "2026-02-22T16:58:09.925Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/493_울산_493번_여성의원.png",
+    "processed_at": "2026-02-24T07:38:36.976Z"
+  },
+  {
+    "id": 494,
+    "name": "부산 494번 소아청소년과",
+    "official_url": "https://www.youtube.com/channel/UCAzPaJvtCXHW3f7AkZXOgkA",
+    "captured_at": "2026-02-22T16:58:12.102Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/494_부산_494번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:38:41.026Z"
+  },
+  {
+    "id": 495,
+    "name": "대전 495번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T16:58:14.269Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/495_대전_495번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:38:44.466Z"
+  },
+  {
+    "id": 496,
+    "name": "광주 496번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCBfQfFkKkMCYjJ4aj0FqI8A",
+    "captured_at": "2026-02-22T16:58:16.344Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/496_광주_496번_산부인과.png",
+    "processed_at": "2026-02-24T07:38:48.433Z"
+  },
+  {
+    "id": 497,
+    "name": "경기 497번 소아청소년과",
+    "official_url": "https://march14th.net/100259064",
+    "captured_at": "2026-02-22T16:58:18.500Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/497_경기_497번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:38:52.135Z"
+  },
+  {
+    "id": 498,
+    "name": "경기 498번 산부인과",
+    "official_url": "http://www.medicalmap.co.kr/web/desk/dmap/view.php?HCODE=S10&sigun=6410000&gugun=3780000&bungu=310401&bizid=JDQ4MTYyMiM1MSMkMiMkMCMkMDAkNTgxMzUxIzIxIyQxIyQ5IyQ3MiQ0NjEwMDIjNjEjJDEjJDQjJDgz",
+    "captured_at": "2026-02-22T16:58:20.518Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/498_경기_498번_산부인과.png",
+    "processed_at": "2026-02-24T07:38:56.245Z"
+  },
+  {
+    "id": 499,
+    "name": "울산 499번 여성의원",
+    "official_url": "http://medicalmap.co.kr/web/desk/dmap/view.php?HCODE=M31&sigun=6310000&gugun=3700000&bizid=JDQ4MTYyMiM4MSMkMiMkNCMkMDAkMzgxNzAyIzExIyQxIyQzIyQ4MiQyNjE0ODEjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T16:58:22.667Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/499_울산_499번_여성의원.png",
+    "processed_at": "2026-02-24T07:38:59.707Z"
+  },
+  {
+    "id": 500,
+    "name": "경기 500번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/310000_10_1.html",
+    "captured_at": "2026-02-22T16:58:24.794Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/500_경기_500번_산부인과.png",
+    "processed_at": "2026-02-24T07:39:03.290Z"
+  },
+  {
+    "id": 501,
+    "name": "경기 501번 소아청소년과",
+    "official_url": "https://ddocdoc.com/hospital/64dc1aba764b928ea6974608",
+    "captured_at": "2026-02-22T16:58:26.959Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/501_경기_501번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:39:06.776Z"
+  },
+  {
+    "id": 502,
+    "name": "대전 502번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T16:58:29.125Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/502_대전_502번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:39:10.135Z"
+  },
+  {
+    "id": 503,
+    "name": "서울 503번 여성의원",
+    "official_url": "https://www.hidoc.co.kr/find/result/view/H0000181553",
+    "captured_at": "2026-02-22T16:58:31.453Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/503_서울_503번_여성의원.png",
+    "processed_at": "2026-02-24T07:39:13.654Z"
+  },
+  {
+    "id": 504,
+    "name": "서울 504번 소아청소년과",
+    "official_url": "https://march14th.net/100075109",
+    "captured_at": "2026-02-22T16:58:33.648Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/504_서울_504번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:39:16.969Z"
+  },
+  {
+    "id": 505,
+    "name": "인천 505번 산부인과",
+    "official_url": "https://medicine.medilocator.co.kr/%EC%9D%B8%EC%B2%9C-%EB%B6%80%ED%8F%89%EA%B5%AC-%EC%9D%BC%EC%9A%94%EC%9D%BC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%A7%84%EB%A3%8C-%EB%B3%91%EC%9B%90",
+    "captured_at": "2026-02-22T16:58:35.794Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/505_인천_505번_산부인과.png",
+    "processed_at": "2026-02-24T07:39:20.312Z"
+  },
+  {
+    "id": 506,
+    "name": "서울 506번 산부인과",
+    "official_url": "https://www.hidoc.co.kr/find/result/view/H0000164144",
+    "captured_at": "2026-02-22T16:58:37.928Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/506_서울_506번_산부인과.png",
+    "processed_at": "2026-02-24T07:39:23.734Z"
+  },
+  {
+    "id": 507,
+    "name": "대구 507번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCF9vbHlZpz7FbOAky3fnYxw",
+    "captured_at": "2026-02-22T16:58:39.976Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/507_대구_507번_산부인과.png",
+    "processed_at": "2026-02-24T07:39:27.952Z"
+  },
+  {
+    "id": 508,
+    "name": "경기 508번 소아청소년과",
+    "official_url": "https://mobile.hidoc.co.kr/find/result/view/H0000232821",
+    "captured_at": "2026-02-22T16:58:42.133Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/508_경기_508번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:39:31.563Z"
+  },
+  {
+    "id": 509,
+    "name": "부산 509번 여성의원",
+    "official_url": "http://aileenwomanclinic.com/",
+    "captured_at": "2026-02-22T16:58:44.276Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/509_부산_509번_여성의원.png",
+    "processed_at": "2026-02-24T07:39:34.763Z"
+  },
+  {
+    "id": 510,
+    "name": "대전 510번 산부인과",
+    "official_url": "https://cleaner.localpawnshop.kr/daejeon/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C-%EC%A0%95%EB%A6%BC%EB%8F%99%EC%9D%98-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-20%EA%B3%B3-%EB%A6%AC%EC%8A%A4%ED%8A%B8/",
+    "captured_at": "2026-02-22T16:58:46.339Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/510_대전_510번_산부인과.png",
+    "processed_at": "2026-02-24T07:39:38.040Z"
+  },
+  {
+    "id": 511,
+    "name": "광주 511번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/240000_240002_10_1.html",
+    "captured_at": "2026-02-22T16:58:48.421Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/511_광주_511번_산부인과.png",
+    "processed_at": "2026-02-24T07:39:41.590Z"
+  },
+  {
+    "id": 512,
+    "name": "경기 512번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/310000_10_32.html",
+    "captured_at": "2026-02-22T16:58:50.466Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/512_경기_512번_산부인과.png",
+    "processed_at": "2026-02-24T07:39:46.859Z"
+  },
+  {
+    "id": 513,
+    "name": "울산 513번 산부인과",
+    "official_url": "https://pervsi.com/info/board.php?board=hospital&command=body&no=35485",
+    "captured_at": "2026-02-22T16:58:52.523Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/513_울산_513번_산부인과.png",
+    "processed_at": "2026-02-24T07:39:50.520Z"
+  },
+  {
+    "id": 514,
+    "name": "대전 514번 여성의원",
+    "official_url": "https://doctornow.co.kr/hospitals/7EE3EC",
+    "captured_at": "2026-02-22T16:58:54.723Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/514_대전_514번_여성의원.png",
+    "processed_at": "2026-02-24T07:39:54.560Z"
+  },
+  {
+    "id": 515,
+    "name": "대전 515번 산부인과",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=65597",
+    "captured_at": "2026-02-22T16:58:56.812Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/515_대전_515번_산부인과.png",
+    "processed_at": "2026-02-24T07:39:58.512Z"
+  },
+  {
+    "id": 516,
+    "name": "울산 516번 여성의원",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMiMkNCMkMDAkMzgxNzAyIzExIyQxIyQzIyQ4MiQyNjE0ODEjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T16:58:58.989Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/516_울산_516번_여성의원.png",
+    "processed_at": "2026-02-24T07:40:02.778Z"
+  },
+  {
+    "id": 517,
+    "name": "서울 517번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T16:59:01.258Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/517_서울_517번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:40:07.405Z"
+  },
+  {
+    "id": 518,
+    "name": "광주 518번 여성의원",
+    "official_url": "https://www.xn--9i2bm7jmwcnygv6akx.com/",
+    "captured_at": "2026-02-22T16:59:03.459Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/518_광주_518번_여성의원.png",
+    "processed_at": "2026-02-24T07:40:14.218Z"
+  },
+  {
+    "id": 519,
+    "name": "광주 519번 소아청소년과",
+    "official_url": "https://www.gwangjucentralhospital.co.kr/specialized_medical_center/doctors.html?center_uid=1&page_type=child",
+    "captured_at": "2026-02-22T16:59:05.614Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/519_광주_519번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:40:21.937Z"
+  },
+  {
+    "id": 520,
+    "name": "광주 520번 소아청소년과",
+    "official_url": "https://www.gwangjucentralhospital.co.kr/pediatrics/immunization.html",
+    "captured_at": "2026-02-22T16:59:07.779Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/520_광주_520번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:40:25.458Z"
+  },
+  {
+    "id": 521,
+    "name": "광주 521번 소아청소년과",
+    "official_url": "http://www.ajoumedi.com/wp_2ds/02_01_view.html?code=prediatrics",
+    "captured_at": "2026-02-22T16:59:09.894Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/521_광주_521번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:40:29.095Z"
+  },
+  {
+    "id": 522,
+    "name": "인천 522번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/220000_220003_11_1.html",
+    "captured_at": "2026-02-22T16:59:12.059Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/522_인천_522번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:40:34.097Z"
+  },
+  {
+    "id": 523,
+    "name": "부산 523번 여성의원",
+    "official_url": "https://kadeora.net/haeundaegu/c10211/4",
+    "captured_at": "2026-02-22T16:59:14.252Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/523_부산_523번_여성의원.png",
+    "processed_at": "2026-02-24T07:40:37.753Z"
+  },
+  {
+    "id": 524,
+    "name": "대구 524번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T16:59:16.432Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/524_대구_524번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:40:42.913Z"
+  },
+  {
+    "id": 525,
+    "name": "서울 525번 산부인과",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=64917",
+    "captured_at": "2026-02-22T16:59:18.535Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/525_서울_525번_산부인과.png",
+    "processed_at": "2026-02-24T07:40:47.381Z"
+  },
+  {
+    "id": 526,
+    "name": "울산 526번 산부인과",
+    "official_url": "https://news.kbs.co.kr/news/pc/main/main.html",
+    "captured_at": "2026-02-22T16:59:20.614Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/526_울산_526번_산부인과.png",
+    "processed_at": "2026-02-24T07:40:50.552Z"
+  },
+  {
+    "id": 527,
+    "name": "경기 527번 산부인과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMiMkMCMkMDAkNDgxOTYxIzUxIyQxIyQ1IyQ2MiQ0NjEwMDIjNTEjJDEjJDYjJDgz",
+    "captured_at": "2026-02-22T16:59:22.668Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/527_경기_527번_산부인과.png",
+    "processed_at": "2026-02-24T07:40:54.599Z"
+  },
+  {
+    "id": 528,
+    "name": "부산 528번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/210000_210009_11_1.html",
+    "captured_at": "2026-02-22T16:59:24.851Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/528_부산_528번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:40:58.498Z"
+  },
+  {
+    "id": 529,
+    "name": "광주 529번 여성의원",
+    "official_url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001720599",
+    "captured_at": "2026-02-22T16:59:27.039Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/529_광주_529번_여성의원.png",
+    "processed_at": "2026-02-24T07:41:02.436Z"
+  },
+  {
+    "id": 530,
+    "name": "부산 530번 소아청소년과",
+    "official_url": "http://medinavi.co.kr/medical_course/210000_11_15.html",
+    "captured_at": "2026-02-22T16:59:29.224Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/530_부산_530번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:41:07.958Z"
+  },
+  {
+    "id": 531,
+    "name": "인천 531번 산부인과",
+    "official_url": "https://www.woo-lee.co.kr/review",
+    "captured_at": "2026-02-22T16:59:31.419Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/531_인천_531번_산부인과.png",
+    "processed_at": "2026-02-24T07:41:11.655Z"
+  },
+  {
+    "id": 532,
+    "name": "대구 532번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T16:59:33.602Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/532_대구_532번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:41:18.462Z"
+  },
+  {
+    "id": 533,
+    "name": "경기 533번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/34867?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:59:35.812Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/533_경기_533번_여성의원.png",
+    "processed_at": "2026-02-24T07:41:21.809Z"
+  },
+  {
+    "id": 534,
+    "name": "대전 534번 여성의원",
+    "official_url": "https://www.bell-rajue.com/default/",
+    "captured_at": "2026-02-22T16:59:37.951Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/534_대전_534번_여성의원.png",
+    "processed_at": "2026-02-24T07:41:25.050Z"
+  },
+  {
+    "id": 535,
+    "name": "인천 535번 소아청소년과",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMiMkMCMkMDAkNDgxMTkxIzUxIyQxIyQ1IyQ3OSQzNjEyMjIjNjEjJDEjJDQjJDgz",
+    "captured_at": "2026-02-22T16:59:40.130Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/535_인천_535번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:41:29.036Z"
+  },
+  {
+    "id": 536,
+    "name": "경기 536번 소아청소년과",
+    "official_url": "https://cashdoc.me/hospital/A2105921/%EC%97%90%EB%94%94%EC%8A%A8%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:59:42.325Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/536_경기_536번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:41:32.709Z"
+  },
+  {
+    "id": 537,
+    "name": "인천 537번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/detail?hospital_id=20454",
+    "captured_at": "2026-02-22T16:59:44.492Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/537_인천_537번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:41:36.034Z"
+  },
+  {
+    "id": 538,
+    "name": "울산 538번 산부인과",
+    "official_url": "https://news.kbs.co.kr/news/pc/main/main.html",
+    "captured_at": "2026-02-22T16:59:46.546Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/538_울산_538번_산부인과.png",
+    "processed_at": "2026-02-24T07:41:39.241Z"
+  },
+  {
+    "id": 539,
+    "name": "경기 539번 여성의원",
+    "official_url": "http://duli.co.kr/web/splus/kmap/view.php?sigun=6410000&gugun=3930000&keyno=209&keyname=%EC%97%B0%EC%84%B8%EC%95%84%EC%9D%B4%EC%86%8C%EB%A7%9D%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90&keylink=PHMA120143930154041100006",
+    "captured_at": "2026-02-22T16:59:48.804Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/539_경기_539번_여성의원.png",
+    "processed_at": "2026-02-24T07:41:43.540Z"
+  },
+  {
+    "id": 540,
+    "name": "광주 540번 소아청소년과",
+    "official_url": "https://www.gwangjucentralhospital.co.kr/pediatrics/immunization.html",
+    "captured_at": "2026-02-22T16:59:50.938Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/540_광주_540번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:41:51.204Z"
+  },
+  {
+    "id": 541,
+    "name": "경기 541번 소아청소년과",
+    "official_url": "http://localmap.co.kr/web/splus/kmap/view.php?sigun=6410000&gugun=3860000&keyno=209&keyname=%EC%9E%A5%EB%AA%85%EC%84%A0%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:59:53.151Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/541_경기_541번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:41:55.107Z"
+  },
+  {
+    "id": 542,
+    "name": "광주 542번 소아청소년과",
+    "official_url": "https://www.gwangjucentralhospital.co.kr/specialized_medical_center/doctors.html?center_uid=1&page_type=child",
+    "captured_at": "2026-02-22T16:59:55.308Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/542_광주_542번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:41:58.397Z"
+  },
+  {
+    "id": 543,
+    "name": "대전 543번 산부인과",
+    "official_url": "https://ddd.mysaltnews.com/%EB%8C%80%EC%A0%84-%EC%84%9C%EA%B5%AC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%B6%94%EC%B2%9C-%EB%AA%A9%EB%A1%9D-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%B3%91%EC%9B%90-10%EA%B3%B3%EC%9D%80/",
+    "captured_at": "2026-02-22T16:59:57.381Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/543_대전_543번_산부인과.png",
+    "processed_at": "2026-02-24T07:42:02.156Z"
+  },
+  {
+    "id": 544,
+    "name": "부산 544번 여성의원",
+    "official_url": "http://aileenwomanclinic.com/",
+    "captured_at": "2026-02-22T16:59:59.632Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/544_부산_544번_여성의원.png",
+    "processed_at": "2026-02-24T07:42:05.335Z"
+  },
+  {
+    "id": 545,
+    "name": "부산 545번 여성의원",
+    "official_url": "https://www.goodhosrank.com/hospital/hospital_detail.php?uid=13249",
+    "captured_at": "2026-02-22T17:00:01.827Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/545_부산_545번_여성의원.png",
+    "processed_at": "2026-02-24T07:42:09.244Z"
+  },
+  {
+    "id": 546,
+    "name": "경기 546번 소아청소년과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3683114&comp_tp_cd=TEL&upjong_cd=861206",
+    "captured_at": "2026-02-22T17:00:04.007Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/546_경기_546번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:42:12.645Z"
+  },
+  {
+    "id": 547,
+    "name": "경기 547번 산부인과",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=27279",
+    "captured_at": "2026-02-22T17:00:06.126Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/547_경기_547번_산부인과.png",
+    "processed_at": "2026-02-24T07:42:16.152Z"
+  },
+  {
+    "id": 548,
+    "name": "경기 548번 산부인과",
+    "official_url": "https://harmony.diabeteshelp.kr/women/%EA%B2%BD%EA%B8%B0%EB%8F%84-%EB%AA%A8%EA%B0%80%EB%A9%B4-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%83%81%EB%8B%B4-1%EA%B3%B3/",
+    "captured_at": "2026-02-22T17:00:08.241Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/548_경기_548번_산부인과.png",
+    "processed_at": "2026-02-24T07:42:19.521Z"
+  },
+  {
+    "id": 549,
+    "name": "서울 549번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T17:00:10.450Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/549_서울_549번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:42:24.158Z"
+  },
+  {
+    "id": 550,
+    "name": "경기 550번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=4338883&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-22T17:00:12.657Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/550_경기_550번_여성의원.png",
+    "processed_at": "2026-02-24T07:42:27.363Z"
+  },
+  {
+    "id": 551,
+    "name": "경기 551번 산부인과",
+    "official_url": "https://momshospital.com/place/260",
+    "captured_at": "2026-02-22T17:00:14.686Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/551_경기_551번_산부인과.png",
+    "processed_at": "2026-02-24T07:42:30.878Z"
+  },
+  {
+    "id": 552,
+    "name": "부산 552번 산부인과",
+    "official_url": "https://occupationalhealthblog.net/hospital/obstetrics/Busan/Dongnae-gu/1996/",
+    "captured_at": "2026-02-22T17:00:16.843Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/552_부산_552번_산부인과.png",
+    "processed_at": "2026-02-24T07:42:34.194Z"
+  },
+  {
+    "id": 553,
+    "name": "인천 553번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/detail?hospital_id=20454",
+    "captured_at": "2026-02-22T17:00:19.071Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/553_인천_553번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:42:37.453Z"
+  },
+  {
+    "id": 554,
+    "name": "광주 554번 소아청소년과",
+    "official_url": "https://www.gwangjucentralhospital.co.kr/pediatrics/immunization.html",
+    "captured_at": "2026-02-22T06:36:13.418Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/554_광주_554번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:42:40.724Z"
+  },
+  {
+    "id": 555,
+    "name": "울산 555번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3964428&comp_tp_cd=TEL&upjong_cd=861229",
+    "captured_at": "2026-02-22T17:00:21.206Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/555_울산_555번_여성의원.png",
+    "processed_at": "2026-02-24T07:42:43.931Z"
+  },
+  {
+    "id": 556,
+    "name": "울산 556번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EC%9A%B8%EC%82%B0",
+    "captured_at": "2026-02-22T17:00:23.379Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/556_울산_556번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:42:47.154Z"
+  },
+  {
+    "id": 557,
+    "name": "대구 557번 여성의원",
+    "official_url": "https://dgbom.co.kr/sub/sub1/sub1-3.php",
+    "captured_at": "2026-02-22T17:00:25.531Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/557_대구_557번_여성의원.png",
+    "processed_at": "2026-02-24T07:42:50.614Z"
+  },
+  {
+    "id": 558,
+    "name": "울산 558번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3964428&comp_tp_cd=TEL&upjong_cd=861229",
+    "captured_at": "2026-02-22T17:00:27.679Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/558_울산_558번_여성의원.png",
+    "processed_at": "2026-02-24T07:42:53.833Z"
+  },
+  {
+    "id": 559,
+    "name": "대전 559번 여성의원",
+    "official_url": "https://www.bell-rajue.com/default/",
+    "captured_at": "2026-02-22T17:00:29.867Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/559_대전_559번_여성의원.png",
+    "processed_at": "2026-02-24T07:42:57.016Z"
+  },
+  {
+    "id": 560,
+    "name": "대구 560번 산부인과",
+    "official_url": "https://rubyvigor.com/%EB%8C%80%EA%B5%AC-%EB%8B%AC%EC%84%9C%EA%B5%AC-24%EC%8B%9C%EA%B0%84-%EC%9D%BC%EC%9A%94%EC%9D%BC-%EC%97%AC%EC%9D%98%EC%82%AC-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%97%AC%EC%84%B1%EB%B3%91%EC%9B%90/",
+    "captured_at": "2026-02-22T17:00:31.926Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/560_대구_560번_산부인과.png",
+    "processed_at": "2026-02-24T07:43:00.923Z"
+  },
+  {
+    "id": 561,
+    "name": "서울 561번 산부인과",
+    "official_url": "https://www.na-medi.com/vn/sub/sub_1.php",
+    "captured_at": "2026-02-22T17:00:34.072Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/561_서울_561번_산부인과.png",
+    "processed_at": "2026-02-24T07:43:04.686Z"
+  },
+  {
+    "id": 562,
+    "name": "인천 562번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/220000_10_9.html",
+    "captured_at": "2026-02-22T17:00:36.256Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/562_인천_562번_산부인과.png",
+    "processed_at": "2026-02-24T07:43:09.681Z"
+  },
+  {
+    "id": 563,
+    "name": "광주 563번 여성의원",
+    "official_url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001720599",
+    "captured_at": "2026-02-22T17:00:38.475Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/563_광주_563번_여성의원.png",
+    "processed_at": "2026-02-24T07:43:13.621Z"
+  },
+  {
+    "id": 570,
+    "name": "대구 570번 소아청소년과",
+    "official_url": "https://www.daegu.go.kr/index.do?menu_id=00000854&menu_link=/icms/bbs/selectBoardArticle.do&bbsId=BBS_00029&nttId=734929",
+    "captured_at": "2026-02-22T06:36:40.557Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/570_대구_570번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:43:18.061Z"
+  },
+  {
+    "id": 582,
+    "name": "광주 582번 산부인과",
+    "official_url": "https://www.mediup.co.kr/board/index.html?id=sell&no=44209",
+    "captured_at": "2026-02-22T06:37:00.928Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/582_광주_582번_산부인과.png",
+    "processed_at": "2026-02-24T07:43:21.932Z"
+  },
+  {
+    "id": 626,
+    "name": "울산 626번 여성의원",
+    "official_url": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMiMkNCMkMDAkMzgxNzAyIzExIyQxIyQzIyQ4MiQyNjE0ODEjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T06:38:14.253Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/626_울산_626번_여성의원.png",
+    "processed_at": "2026-02-24T07:43:27.200Z"
+  },
+  {
+    "id": 628,
+    "name": "대전 628번 산부인과",
+    "official_url": "https://trawuxenr.com/4510/",
+    "captured_at": "2026-02-22T06:38:18.061Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/628_대전_628번_산부인과.png",
+    "processed_at": "2026-02-24T07:43:30.820Z"
+  },
+  {
+    "id": 641,
+    "name": "경기 641번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3751373&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-22T16:57:02.681Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/641_경기_641번_여성의원.png",
+    "processed_at": "2026-02-24T07:43:34.366Z"
+  },
+  {
+    "id": 642,
+    "name": "대전 642번 여성의원",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=629",
+    "captured_at": "2026-02-22T16:57:04.895Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/642_대전_642번_여성의원.png",
+    "processed_at": "2026-02-24T07:43:37.819Z"
+  },
+  {
+    "id": 643,
+    "name": "울산 643번 소아청소년과",
+    "official_url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1041196",
+    "captured_at": "2026-02-22T16:57:07.081Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/643_울산_643번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:43:41.944Z"
+  },
+  {
+    "id": 644,
+    "name": "서울 644번 산부인과",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=12062",
+    "captured_at": "2026-02-22T16:57:09.235Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/644_서울_644번_산부인과.png",
+    "processed_at": "2026-02-24T07:43:45.305Z"
+  },
+  {
+    "id": 645,
+    "name": "인천 645번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/detail?hospital_id=20454",
+    "captured_at": "2026-02-22T16:57:11.431Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/645_인천_645번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:43:48.821Z"
+  },
+  {
+    "id": 646,
+    "name": "경기 646번 산부인과",
+    "official_url": "https://hallis.relaxspace.kr/gyeonggi/%EC%8B%9C%ED%9D%A5-%EC%9D%80%ED%96%89%EB%8F%99-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EA%B0%80%EA%B2%A9-%EB%B9%84%EA%B5%90-21%EA%B3%B3/",
+    "captured_at": "2026-02-22T16:57:13.502Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/646_경기_646번_산부인과.png",
+    "processed_at": "2026-02-24T07:43:52.135Z"
+  },
+  {
+    "id": 647,
+    "name": "서울 647번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T16:57:15.687Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/647_서울_647번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:43:57.306Z"
+  },
+  {
+    "id": 648,
+    "name": "광주 648번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCBfQfFkKkMCYjJ4aj0FqI8A",
+    "captured_at": "2026-02-22T16:57:17.838Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/648_광주_648번_산부인과.png",
+    "processed_at": "2026-02-24T07:44:01.619Z"
+  },
+  {
+    "id": 649,
+    "name": "부산 649번 여성의원",
+    "official_url": "http://aileenwomanclinic.com/",
+    "captured_at": "2026-02-22T16:57:20.096Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/649_부산_649번_여성의원.png",
+    "processed_at": "2026-02-24T07:44:04.835Z"
+  },
+  {
+    "id": 650,
+    "name": "부산 650번 소아청소년과",
+    "official_url": "https://www.youtube.com/channel/UCAzPaJvtCXHW3f7AkZXOgkA",
+    "captured_at": "2026-02-22T16:57:22.221Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/650_부산_650번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:44:08.697Z"
+  },
+  {
+    "id": 651,
+    "name": "경기 651번 소아청소년과",
+    "official_url": "http://www.hanaped.co.kr/?menu=9",
+    "captured_at": "2026-02-22T16:57:24.402Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/651_경기_651번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:44:14.907Z"
+  },
+  {
+    "id": 652,
+    "name": "부산 652번 여성의원",
+    "official_url": "https://mobile.hidoc.co.kr/find/result/view/H0000163446",
+    "captured_at": "2026-02-22T16:57:26.678Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/652_부산_652번_여성의원.png",
+    "processed_at": "2026-02-24T07:44:18.669Z"
+  },
+  {
+    "id": 653,
+    "name": "부산 653번 산부인과",
+    "official_url": "https://pirifestival.com/%EB%B6%80%EC%82%B0-%EC%9D%BC%EC%9A%94%EC%9D%BC-%EC%A7%84%EB%A3%8C-%EB%B3%91%EC%9B%90/",
+    "captured_at": "2026-02-22T16:57:28.797Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/653_부산_653번_산부인과.png",
+    "processed_at": "2026-02-24T07:44:22.637Z"
+  },
+  {
+    "id": 654,
+    "name": "인천 654번 산부인과",
+    "official_url": "https://cashdoc.me/hospital/A1400143/%EB%A7%88%EC%9D%B4%EB%B9%84%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:57:30.960Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/654_인천_654번_산부인과.png",
+    "processed_at": "2026-02-24T07:44:26.360Z"
+  },
+  {
+    "id": 655,
+    "name": "대전 655번 산부인과",
+    "official_url": "https://cleanser.localclean.kr/daejeon/%EC%9C%A0%EC%84%B1%EA%B5%AC-%EC%A0%84%EB%AF%BC%EB%8F%99-%EA%B7%BC%EC%B2%98-%ED%95%9C%EC%9D%98%EC%9B%90%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC%ED%94%BC%EB%B6%80%EA%B3%BC%EC%97%90%EC%8A%A4%ED%85%8C%ED%8B%B1%EC%82%B0%ED%9B%84%EC%A1%B0%EB%A6%AC%EC%9B%90-13%EC%97%85%EC%B2%B4/",
+    "captured_at": "2026-02-22T16:57:33.039Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/655_대전_655번_산부인과.png",
+    "processed_at": "2026-02-24T07:44:29.695Z"
+  },
+  {
+    "id": 656,
+    "name": "경기 656번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/310000_311200_10_1.html",
+    "captured_at": "2026-02-22T16:57:35.164Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/656_경기_656번_산부인과.png",
+    "processed_at": "2026-02-24T07:44:33.229Z"
+  },
+  {
+    "id": 657,
+    "name": "대구 657번 여성의원",
+    "official_url": "https://www.youtube.com/channel/UCY61VL0Lp1xVJOaX81F0Dlg",
+    "captured_at": "2026-02-22T16:57:37.305Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/657_대구_657번_여성의원.png",
+    "processed_at": "2026-02-24T07:44:37.069Z"
+  },
+  {
+    "id": 658,
+    "name": "광주 658번 여성의원",
+    "official_url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001720599",
+    "captured_at": "2026-02-22T16:57:39.518Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/658_광주_658번_여성의원.png",
+    "processed_at": "2026-02-24T07:44:40.895Z"
+  },
+  {
+    "id": 659,
+    "name": "서울 659번 여성의원",
+    "official_url": "https://www.modoodoc.com/hospital/52882/%EC%84%9C%EC%9A%B8%EB%AF%B8%EC%A6%88%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90-%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84-%EC%8B%A0%EB%B6%80%EB%8F%99",
+    "captured_at": "2026-02-22T16:57:41.711Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/659_서울_659번_여성의원.png",
+    "processed_at": "2026-02-24T07:44:45.426Z"
+  },
+  {
+    "id": 660,
+    "name": "대구 660번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCF9vbHlZpz7FbOAky3fnYxw",
+    "captured_at": "2026-02-22T16:57:43.856Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/660_대구_660번_산부인과.png",
+    "processed_at": "2026-02-24T07:44:49.471Z"
+  },
+  {
+    "id": 661,
+    "name": "대구 661번 여성의원",
+    "official_url": "https://www.smwomen.co.kr/sub.php?Page1=1&Page2=8",
+    "captured_at": "2026-02-22T16:57:46.046Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/661_대구_661번_여성의원.png",
+    "processed_at": "2026-02-24T07:44:53.185Z"
+  },
+  {
+    "id": 662,
+    "name": "광주 662번 여성의원",
+    "official_url": "http://shinelady.co.kr/",
+    "captured_at": "2026-02-22T16:57:48.212Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/662_광주_662번_여성의원.png",
+    "processed_at": "2026-02-24T07:44:56.512Z"
+  },
+  {
+    "id": 663,
+    "name": "경기 663번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/34867?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:50.439Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/663_경기_663번_여성의원.png",
+    "processed_at": "2026-02-24T07:44:59.860Z"
+  },
+  {
+    "id": 664,
+    "name": "서울 664번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/88002?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:57:52.647Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/664_서울_664번_여성의원.png",
+    "processed_at": "2026-02-24T07:45:03.142Z"
+  },
+  {
+    "id": 665,
+    "name": "인천 665번 여성의원",
+    "official_url": "http://www.carmap.co.kr/web/mplus/nbiz/nview.php?nid=MA0101202410A0886050&NCODE=Q10207&sigun=6280000&gugun=3510000",
+    "captured_at": "2026-02-22T16:57:54.864Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/665_인천_665번_여성의원.png",
+    "processed_at": "2026-02-24T07:45:06.930Z"
+  },
+  {
+    "id": 666,
+    "name": "대구 666번 산부인과",
+    "official_url": "https://www.youtube.com/channel/UCF9vbHlZpz7FbOAky3fnYxw",
+    "captured_at": "2026-02-22T16:57:56.945Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/666_대구_666번_산부인과.png",
+    "processed_at": "2026-02-24T07:45:11.017Z"
+  },
+  {
+    "id": 667,
+    "name": "인천 667번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/detail?hospital_id=20454",
+    "captured_at": "2026-02-22T16:57:59.133Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/667_인천_667번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:45:14.688Z"
+  },
+  {
+    "id": 668,
+    "name": "부산 668번 여성의원",
+    "official_url": "http://aileenwomanclinic.com/",
+    "captured_at": "2026-02-22T16:58:01.284Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/668_부산_668번_여성의원.png",
+    "processed_at": "2026-02-24T07:45:17.847Z"
+  },
+  {
+    "id": 669,
+    "name": "대구 669번 여성의원",
+    "official_url": "https://www.smwomen.co.kr/sub.php?Page1=1&Page2=8",
+    "captured_at": "2026-02-22T16:58:03.448Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/669_대구_669번_여성의원.png",
+    "processed_at": "2026-02-24T07:45:21.336Z"
+  },
+  {
+    "id": 670,
+    "name": "광주 670번 산부인과",
+    "official_url": "http://medinavi.co.kr/medical_course/240000_10_1.html",
+    "captured_at": "2026-02-22T16:58:05.533Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/670_광주_670번_산부인과.png",
+    "processed_at": "2026-02-24T07:45:25.056Z"
+  },
+  {
+    "id": 671,
+    "name": "경기 671번 소아청소년과",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=4429282&comp_tp_cd=TEL&upjong_cd=861206",
+    "captured_at": "2026-02-22T16:58:07.673Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/671_경기_671번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:45:28.493Z"
+  },
+  {
+    "id": 672,
+    "name": "경기 672번 소아청소년과",
+    "official_url": "https://cashdoc.me/hospital/A2116097/%ED%95%9C%EB%A7%88%EC%9D%8C%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC%EC%9D%98%EC%9B%90",
+    "captured_at": "2026-02-22T16:58:09.858Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/672_경기_672번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:45:32.927Z"
+  },
+  {
+    "id": 673,
+    "name": "경기 673번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/34867?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:58:12.174Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/673_경기_673번_여성의원.png",
+    "processed_at": "2026-02-24T07:45:36.193Z"
+  },
+  {
+    "id": 674,
+    "name": "부산 674번 여성의원",
+    "official_url": "https://www.nborn.kr/center1_1.php",
+    "captured_at": "2026-02-22T16:58:14.404Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/674_부산_674번_여성의원.png",
+    "processed_at": "2026-02-24T07:45:40.399Z"
+  },
+  {
+    "id": 675,
+    "name": "울산 675번 여성의원",
+    "official_url": "http://medicalmap.co.kr/web/desk/dmap/view.php?HCODE=M31&sigun=6310000&gugun=3700000&bizid=JDQ4MTYyMiM4MSMkMiMkNCMkMDAkMzgxNzAyIzExIyQxIyQzIyQ4MiQyNjE0ODEjNDEjJDEjJDgjJDgz",
+    "captured_at": "2026-02-22T16:58:16.540Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/675_울산_675번_여성의원.png",
+    "processed_at": "2026-02-24T07:45:44.097Z"
+  },
+  {
+    "id": 676,
+    "name": "서울 676번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T16:58:18.745Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/676_서울_676번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:45:48.639Z"
+  },
+  {
+    "id": 677,
+    "name": "경기 677번 여성의원",
+    "official_url": "https://weseb.com/SJB/board.php?board=love&command=body&no=27794",
+    "captured_at": "2026-02-22T16:58:20.952Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/677_경기_677번_여성의원.png",
+    "processed_at": "2026-02-24T07:45:52.188Z"
+  },
+  {
+    "id": 678,
+    "name": "울산 678번 산부인과",
+    "official_url": "https://news.kbs.co.kr/news/pc/main/main.html",
+    "captured_at": "2026-02-22T16:58:23.029Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/678_울산_678번_산부인과.png",
+    "processed_at": "2026-02-24T07:45:55.457Z"
+  },
+  {
+    "id": 679,
+    "name": "서울 679번 소아청소년과",
+    "official_url": "https://mediahub.seoul.go.kr/archives/2004039",
+    "captured_at": "2026-02-22T16:58:25.232Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/679_서울_679번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:46:00.026Z"
+  },
+  {
+    "id": 680,
+    "name": "광주 680번 산부인과",
+    "official_url": "https://daonna.com/view/502964/",
+    "captured_at": "2026-02-22T16:58:27.311Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/680_광주_680번_산부인과.png",
+    "processed_at": "2026-02-24T07:46:04.855Z"
+  },
+  {
+    "id": 681,
+    "name": "대구 681번 여성의원",
+    "official_url": "http://www.cityw.co.kr/pages/cityw/cityw01.php",
+    "captured_at": "2026-02-22T16:58:29.476Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/681_대구_681번_여성의원.png",
+    "processed_at": "2026-02-24T07:46:08.416Z"
+  },
+  {
+    "id": 682,
+    "name": "경기 682번 여성의원",
+    "official_url": "https://www.114.co.kr/search/detail?comp_id=3751373&comp_tp_cd=TEL&upjong_cd=861205",
+    "captured_at": "2026-02-22T16:58:31.666Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/682_경기_682번_여성의원.png",
+    "processed_at": "2026-02-24T07:46:11.695Z"
+  },
+  {
+    "id": 683,
+    "name": "대전 683번 산부인과",
+    "official_url": "https://www.trinium.co.kr/page/s0703.php?mode=view&idx=145",
+    "captured_at": "2026-02-22T16:58:33.732Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/683_대전_683번_산부인과.png",
+    "processed_at": "2026-02-24T07:46:15.508Z"
+  },
+  {
+    "id": 684,
+    "name": "경기 684번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/34867?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:58:35.887Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/684_경기_684번_여성의원.png",
+    "processed_at": "2026-02-24T07:46:18.944Z"
+  },
+  {
+    "id": 685,
+    "name": "대전 685번 여성의원",
+    "official_url": "http://duli.co.kr/web/splus/kmap/view.php?sigun=6300000&gugun=3670000&keyno=209&keyname=%EB%8F%84%EC%95%88%EB%88%84%EB%A6%AC%EC%97%AC%EC%84%B1%EC%9D%98%EC%9B%90&keylink=PHMA120233670022041100016",
+    "captured_at": "2026-02-22T16:58:38.050Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/685_대전_685번_여성의원.png",
+    "processed_at": "2026-02-24T07:46:22.909Z"
+  },
+  {
+    "id": 686,
+    "name": "대전 686번 산부인과",
+    "official_url": "https://tanggi.nomadwork.kr/daejeon/%EB%8C%80%EC%A0%84-%EC%84%9C%EA%B5%AC-%EC%9A%A9%EB%AC%B8%EB%8F%99-%EC%82%B0%EB%B6%80%EC%9D%B8%EA%B3%BC-%EC%B6%94%EC%B2%9C-25%EA%B3%B3-%EB%A6%AC%EC%8A%A4%ED%8A%B8/",
+    "captured_at": "2026-02-22T16:58:40.124Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/686_대전_686번_산부인과.png",
+    "processed_at": "2026-02-24T07:46:26.196Z"
+  },
+  {
+    "id": 687,
+    "name": "서울 687번 산부인과",
+    "official_url": "https://www.todac.co.kr/main/hospital",
+    "captured_at": "2026-02-22T06:39:56.036Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/687_서울_687번_산부인과.png",
+    "processed_at": "2026-02-24T07:46:29.851Z"
+  },
+  {
+    "id": 688,
+    "name": "서울 688번 산부인과",
+    "official_url": "https://www.mediup.co.kr/board/index.html?id=sell&no=83570",
+    "captured_at": "2026-02-22T16:58:42.181Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/688_서울_688번_산부인과.png",
+    "processed_at": "2026-02-24T07:46:33.167Z"
+  },
+  {
+    "id": 689,
+    "name": "인천 689번 소아청소년과",
+    "official_url": "https://www.youtube.com/channel/UCm4d7yxSTdXOX8UUdLqzMgQ",
+    "captured_at": "2026-02-22T16:58:44.315Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/689_인천_689번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:46:37.202Z"
+  },
+  {
+    "id": 690,
+    "name": "울산 690번 산부인과",
+    "official_url": "https://hsl.purpleo.co.kr/view/1815",
+    "captured_at": "2026-02-22T16:58:46.352Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/690_울산_690번_산부인과.png",
+    "processed_at": "2026-02-24T07:46:41.108Z"
+  },
+  {
+    "id": 691,
+    "name": "울산 691번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/deptHub/region/%EC%86%8C%EC%95%84%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC-%EC%9A%B8%EC%82%B0",
+    "captured_at": "2026-02-22T16:58:48.460Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/691_울산_691번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:46:44.429Z"
+  },
+  {
+    "id": 692,
+    "name": "인천 692번 여성의원",
+    "official_url": "https://www.goodoc.co.kr/hospitals/66819?addressCode=1168010100",
+    "captured_at": "2026-02-22T16:58:50.802Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/692_인천_692번_여성의원.png",
+    "processed_at": "2026-02-24T07:46:47.762Z"
+  },
+  {
+    "id": 693,
+    "name": "인천 693번 소아청소년과",
+    "official_url": "https://my-doctor.io/hospital/detail?hospital_id=20454",
+    "captured_at": "2026-02-22T16:58:52.979Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/693_인천_693번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:46:50.973Z"
+  },
+  {
+    "id": 694,
+    "name": "대전 694번 소아청소년과",
+    "official_url": "https://www.cmcdj.or.kr/servlet/MainSvl?_tc=F001001001001&cd2=001&idx=109",
+    "captured_at": "2026-02-22T16:58:55.111Z",
+    "screenshot": "/Volumes/Macintosh HD EX/elohim4/workspace/hospital_benchmarking/screenshots_pro/694_대전_694번_소아청소년과.png",
+    "processed_at": "2026-02-24T07:46:54.490Z"
   }
 ]
